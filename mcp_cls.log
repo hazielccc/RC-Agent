@@ -1,0 +1,62 @@
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                                                              │
+│                                FastMCP 2.14.5                                │
+│                            https://gofastmcp.com                             │
+│                                                                              │
+│                    🖥  Server:      CLS                                       │
+│                    🚀 Deploy free: https://fastmcp.cloud                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                          ✨ FastMCP 3.0 is coming!                           │
+│       Pin `fastmcp < 3` in production, then upgrade when you're ready.       │
+╰──────────────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                          🎉 Update available: 3.3.1                          │
+│                      Run: pip install --upgrade fastmcp                      │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+[05/28/26 06:53:45] INFO     Starting MCP server 'CLS' with       server.py:2580
+                             transport 'streamable-http' on                     
+                             http://127.0.0.1:8003/mcp                          
+INFO:     Started server process [4460]
+INFO:     Waiting for application startup.
+2026-05-28 06:53:45,438 - docket.worker - INFO - Starting worker 'AlexdeMac-mini.local#4460' with the following tasks:
+2026-05-28 06:53:45,438 - docket.worker - INFO - * trace(message: str, ...)
+2026-05-28 06:53:45,438 - docket.worker - INFO - * fail(message: str, ...)
+2026-05-28 06:53:45,438 - docket.worker - INFO - * sleep(seconds: float, ...)
+2026-05-28 06:53:45,438 - mcp.server.streamable_http_manager - INFO - StreamableHTTP session manager started
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8003 (Press CTRL+C to quit)
+2026-05-28 06:55:56,545 - mcp.server.streamable_http_manager - INFO - Created new transport with session ID: 09747d92fce946049bcde914e66bf816
+INFO:     127.0.0.1:64465 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64472 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:64474 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64478 - "POST /mcp HTTP/1.1" 200 OK
+2026-05-28 06:55:56,565 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2026-05-28 06:55:56,571 - mcp.server.streamable_http - INFO - Terminating session: 09747d92fce946049bcde914e66bf816
+INFO:     127.0.0.1:64482 - "DELETE /mcp HTTP/1.1" 200 OK
+2026-05-28 16:17:21,546 - mcp.server.streamable_http_manager - INFO - Created new transport with session ID: 684888adf5024508a0c48d595674fd49
+INFO:     127.0.0.1:50856 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50861 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:50863 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50867 - "POST /mcp HTTP/1.1" 200 OK
+2026-05-28 16:17:21,560 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2026-05-28 16:17:21,564 - mcp.server.streamable_http - INFO - Terminating session: 684888adf5024508a0c48d595674fd49
+INFO:     127.0.0.1:50871 - "DELETE /mcp HTTP/1.1" 200 OK
+2026-05-30 07:03:59,778 - mcp.server.streamable_http_manager - INFO - Created new transport with session ID: e48e5f19dac74d92a771c57f9aa70851
+INFO:     127.0.0.1:62023 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62032 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:62031 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62036 - "POST /mcp HTTP/1.1" 200 OK
+2026-05-30 07:03:59,846 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2026-05-30 07:03:59,851 - mcp.server.streamable_http - INFO - Terminating session: e48e5f19dac74d92a771c57f9aa70851
+INFO:     127.0.0.1:62040 - "DELETE /mcp HTTP/1.1" 200 OK
