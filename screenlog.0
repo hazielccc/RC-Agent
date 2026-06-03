@@ -1,0 +1,53 @@
+[32m2026-04-28 15:06:22[0m | [1mINFO    [0m | [36mrag_agent_service[0m.[36m__init__[0m:[36m110[0m | [1mRAG Agent 服务初始化完成 (ChatQwen), model=qwen-max, streaming=True[0m
+[32m2026-04-28 15:06:22[0m | [1mINFO    [0m | [36mvector_index_service[0m.[36m__init__[0m:[36m72[0m | [1mRAG-Anything 索引服务初始化完成[0m
+[32m2026-04-28 15:06:22[0m | [1mINFO    [0m | [36maiops_service[0m.[36m_build_graph[0m:[36m31[0m | [1m构建工作流图...[0m
+[32m2026-04-28 15:06:22[0m | [1mINFO    [0m | [36maiops_service[0m.[36m_build_graph[0m:[36m78[0m | [1m工作流图构建完成[0m
+[32m2026-04-28 15:06:22[0m | [1mINFO    [0m | [36maiops_service[0m.[36m__init__[0m:[36m27[0m | [1mPlan-Execute-Replan Service 初始化完成[0m
+[32mINFO[0m:     Started server process [[36m14837[0m]
+[32mINFO[0m:     Waiting for application startup.
+[32m2026-04-28 15:06:22[0m | [1mINFO    [0m | [36mmain[0m.[36mlifespan[0m:[36m23[0m | [1m============================================================[0m
+[32m2026-04-28 15:06:22[0m | [1mINFO    [0m | [36mmain[0m.[36mlifespan[0m:[36m24[0m | [1m🚀 SuperBizAgent v1.0.0 启动中...[0m
+[32m2026-04-28 15:06:22[0m | [1mINFO    [0m | [36mmain[0m.[36mlifespan[0m:[36m25[0m | [1m📝 环境: 开发[0m
+[32m2026-04-28 15:06:22[0m | [1mINFO    [0m | [36mmain[0m.[36mlifespan[0m:[36m26[0m | [1m🌐 监听地址: http://0.0.0.0:9900[0m
+[32m2026-04-28 15:06:22[0m | [1mINFO    [0m | [36mmain[0m.[36mlifespan[0m:[36m27[0m | [1m📚 API 文档: http://0.0.0.0:9900/docs[0m
+[32m2026-04-28 15:06:22[0m | [1mINFO    [0m | [36mmain[0m.[36mlifespan[0m:[36m30[0m | [1m🔌 正在初始化 RAG-Anything...[0m
+INFO: RAGAnything initialized with config:
+INFO:   Working directory: rag_anything_storage
+INFO:   Parser: mineru
+INFO:   Parse method: auto
+INFO:   Multimodal processing - Image: True, Table: True, Equation: True
+INFO:   Max concurrent files: 1
+INFO: Parser 'mineru' installation verified
+INFO: Initializing LightRAG with parameters: {'working_dir': 'rag_anything_storage', 'llm_model_name': 'qwen-max', 'llm_model_max_async': 2, 'embedding_func_max_async': 2, 'enable_llm_cache': True}
+INFO: [] Loaded graph from rag_anything_storage/graph_chunk_entity_relation.graphml with 2885 nodes, 3210 edges
+INFO:nano-vectordb:Load (2885, 1024) data
+INFO:nano-vectordb:Init {'embedding_dim': 1024, 'metric': 'cosine', 'storage_file': 'rag_anything_storage/vdb_entities.json'} 2885 data
+INFO:nano-vectordb:Load (3210, 1024) data
+INFO:nano-vectordb:Init {'embedding_dim': 1024, 'metric': 'cosine', 'storage_file': 'rag_anything_storage/vdb_relationships.json'} 3210 data
+INFO:nano-vectordb:Load (371, 1024) data
+INFO:nano-vectordb:Init {'embedding_dim': 1024, 'metric': 'cosine', 'storage_file': 'rag_anything_storage/vdb_chunks.json'} 371 data
+INFO: [] Process 14837 KV load full_docs with 163 records
+INFO: [] Process 14837 KV load text_chunks with 371 records
+INFO: [] Process 14837 KV load full_entities with 76 records
+INFO: [] Process 14837 KV load full_relations with 76 records
+INFO: [] Process 14837 KV load entity_chunks with 2885 records
+INFO: [] Process 14837 KV load relation_chunks with 3210 records
+INFO: [] Process 14837 KV load llm_response_cache with 824 records
+INFO: [] Process 14837 doc status load doc_status with 163 records
+INFO: [] Process 14837 KV load parse_cache with 0 records
+INFO: Multimodal processors initialized with context support
+INFO: Available processors: ['image', 'table', 'equation', 'generic']
+INFO: Context configuration: ContextConfig(context_window=1, context_mode='page', max_context_tokens=2000, include_headers=True, include_captions=True, filter_content_types=['text'])
+INFO: LightRAG, parse cache, and multimodal processors initialized
+[32m2026-04-28 15:06:26[0m | [1mINFO    [0m | [36mrag_anything_service[0m.[36mensure_ready[0m:[36m89[0m | [1mRAG-Anything 初始化完成: working_dir=rag_anything_storage, query_mode=hybrid[0m
+[32m2026-04-28 15:06:26[0m | [1mINFO    [0m | [36mmain[0m.[36mlifespan[0m:[36m32[0m | [1m✅ RAG-Anything 初始化成功[0m
+[32m2026-04-28 15:06:26[0m | [1mINFO    [0m | [36mmain[0m.[36mlifespan[0m:[36m34[0m | [1m============================================================[0m
+[32mINFO[0m:     Application startup complete.
+[31mERROR[0m:    [Errno 48] error while attempting to bind on address ('127.0.0.1', 9900): address already in use
+[32mINFO[0m:     Waiting for application shutdown.
+[32m2026-04-28 15:06:26[0m | [1mINFO    [0m | [36mmain[0m.[36mlifespan[0m:[36m39[0m | [1m🔌 正在关闭 RAG-Anything 存储...[0m
+INFO: Successfully finalized 12 storages
+INFO: Successfully finalized all RAGAnything storages
+[32m2026-04-28 15:06:26[0m | [1mINFO    [0m | [36mmain[0m.[36mlifespan[0m:[36m41[0m | [1m👋 SuperBizAgent 关闭[0m
+[32mINFO[0m:     Application shutdown complete.
+INFO: Successfully finalized all RAGAnything storages

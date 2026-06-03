@@ -1,0 +1,5538 @@
+{
+  "doc-449bb9bd70654a9b0cbb68f4dea435cc": {
+    "relation_pairs": [
+      [
+        "Highcpuusage",
+        "System-metrics"
+      ],
+      [
+        "Highcpuusage",
+        "Highmemoryusage"
+      ],
+      [
+        "Highcpuusage",
+        "Ops-team@company.com"
+      ],
+      [
+        "Highcpuusage",
+        "Query_logs"
+      ],
+      [
+        "Ap-guangzhou",
+        "Highcpuusage"
+      ],
+      [
+        "Dead Loop Or Infinite Recursion",
+        "Highcpuusage"
+      ],
+      [
+        "Highcpuusage",
+        "Highloadaverage"
+      ],
+      [
+        "Highcpuusage",
+        "Slow Database Queries"
+      ],
+      [
+        "400-xxx-xxxx",
+        "Highcpuusage"
+      ],
+      [
+        "Highcpuusage",
+        "Slowresponse"
+      ],
+      [
+        "Application-logs",
+        "Highcpuusage"
+      ],
+      [
+        "Dev-team@company.com",
+        "Highcpuusage"
+      ],
+      [
+        "Get_current_time",
+        "Highcpuusage"
+      ],
+      [
+        "Highcpuusage",
+        "Traffic Surge"
+      ],
+      [
+        "Highcpuusage",
+        "Overlapping Scheduled Tasks"
+      ]
+    ],
+    "count": 15,
+    "create_time": 1780068840,
+    "update_time": 1780068840,
+    "_id": "doc-449bb9bd70654a9b0cbb68f4dea435cc"
+  },
+  "doc-fc482af95d5a9b089a34bd676eba9f2d": {
+    "relation_pairs": [
+      [
+        "FileSystemError",
+        "运维团队"
+      ],
+      [
+        "InodeFull",
+        "运维团队"
+      ],
+      [
+        "Backup",
+        "Dedicated Storage"
+      ],
+      [
+        "Container Logs",
+        "Docker Containers"
+      ],
+      [
+        "Backup Files",
+        "HighDiskUsage"
+      ],
+      [
+        "Backup",
+        "Object Storage"
+      ],
+      [
+        "Filesystem Full",
+        "Query Logs"
+      ],
+      [
+        "HighDiskUsage",
+        "Tmp Directory"
+      ],
+      [
+        "Elastic Scaling",
+        "Trend Analysis"
+      ],
+      [
+        "Backup",
+        "Backup Transfer"
+      ],
+      [
+        "Data Files",
+        "HighDiskUsage"
+      ],
+      [
+        "监控告警",
+        "运维团队"
+      ],
+      [
+        "Docker Images",
+        "Multi-Stage Build"
+      ],
+      [
+        "Ap Guangzhou",
+        "Query Logs"
+      ],
+      [
+        "Container Logs",
+        "Log Rotation"
+      ],
+      [
+        "Disk Usage Monitoring",
+        "Unnecessary Files"
+      ],
+      [
+        "Automated Cleanup",
+        "Capacity Planning"
+      ],
+      [
+        "日志管理",
+        "运维团队"
+      ],
+      [
+        "No Space Left on Device",
+        "Query Logs"
+      ],
+      [
+        "定期清理",
+        "运维团队"
+      ],
+      [
+        "HighDiskUsage",
+        "Logrotate"
+      ],
+      [
+        "Query Logs",
+        "System Metrics"
+      ],
+      [
+        "Application Cache",
+        "Maven Cache"
+      ],
+      [
+        "Package Manager Cache",
+        "System Logs"
+      ],
+      [
+        "Large Log Files",
+        "Temporary Files"
+      ],
+      [
+        "存储团队",
+        "运维团队"
+      ],
+      [
+        "Core Dump Files",
+        "Disk Space Alert"
+      ],
+      [
+        "DiskIOHigh",
+        "运维团队"
+      ],
+      [
+        "Get Current Time",
+        "HighDiskUsage"
+      ],
+      [
+        "Docker Containers",
+        "Docker Images"
+      ],
+      [
+        "DiskReadOnly",
+        "运维团队"
+      ],
+      [
+        "磁盘使用情况监控",
+        "运维团队"
+      ],
+      [
+        "Log Rotation",
+        "System Logs"
+      ],
+      [
+        "HighDiskUsage",
+        "Query Logs"
+      ],
+      [
+        "Application Logs",
+        "Query Logs"
+      ],
+      [
+        "Docker Cache",
+        "Docker Images"
+      ],
+      [
+        "Application Cache",
+        "Redis"
+      ],
+      [
+        "Application Cache",
+        "Least Recently Used (LRU) Cache"
+      ],
+      [
+        "Backup",
+        "Incremental Backup"
+      ],
+      [
+        "数据归档",
+        "运维团队"
+      ],
+      [
+        "容量规划",
+        "运维团队"
+      ]
+    ],
+    "count": 41,
+    "create_time": 1780068845,
+    "update_time": 1780068845,
+    "_id": "doc-fc482af95d5a9b089a34bd676eba9f2d"
+  },
+  "doc-38a761b40fcd0ac72cd0c0b516bd3738": {
+    "relation_pairs": [
+      [
+        "Emergency Phone",
+        "Ops-Team"
+      ],
+      [
+        "Capacity Planning",
+        "Memory Usage"
+      ],
+      [
+        "JVM Memory Management Best Practices",
+        "Memory Usage"
+      ],
+      [
+        "HighMemoryUsage",
+        "Memory Leak"
+      ],
+      [
+        "Jmap Command",
+        "Memory Dump"
+      ],
+      [
+        "Memory Usage",
+        "Monitoring Enhancement"
+      ],
+      [
+        "HighCPUUsage Alert",
+        "Memory Usage"
+      ],
+      [
+        "FrequentGC Alert",
+        "Memory Usage"
+      ],
+      [
+        "Memory Usage",
+        "SlowResponse Alert"
+      ],
+      [
+        "HighMemoryUsage",
+        "Large Object Allocation Records"
+      ],
+      [
+        "HighMemoryUsage",
+        "JVM Heap Memory Usage"
+      ],
+      [
+        "Application Logs",
+        "HighMemoryUsage"
+      ],
+      [
+        "HighMemoryUsage",
+        "Memory Leak Indications"
+      ],
+      [
+        "Cache Configuration",
+        "HighMemoryUsage"
+      ],
+      [
+        "HighMemoryUsage",
+        "OOM"
+      ],
+      [
+        "GC Frequency And Duration",
+        "HighMemoryUsage"
+      ],
+      [
+        "Application Crash Or Restart",
+        "HighMemoryUsage"
+      ],
+      [
+        "Cache Cleanup",
+        "Memory Usage"
+      ],
+      [
+        "HighMemoryUsage",
+        "Large File Or Data Processing"
+      ],
+      [
+        "Alerts",
+        "Memory Usage Thresholds"
+      ],
+      [
+        "HighMemoryUsage",
+        "System Swap"
+      ],
+      [
+        "HighMemoryUsage",
+        "MAT Tool"
+      ],
+      [
+        "Dev-Team",
+        "Ops-Team"
+      ],
+      [
+        "Memory Leak Troubleshooting Guide",
+        "Memory Usage"
+      ],
+      [
+        "HighMemoryUsage",
+        "System Metrics"
+      ],
+      [
+        "HighMemoryUsage",
+        "JVM Parameter Configuration"
+      ],
+      [
+        "High Memory Instance",
+        "Rate Limiting"
+      ],
+      [
+        "Code Review",
+        "Memory Usage"
+      ],
+      [
+        "Memory Usage",
+        "OOMError Alert"
+      ],
+      [
+        "Code Optimization",
+        "Memory Usage"
+      ],
+      [
+        "Garbage Collection",
+        "Jstat Command"
+      ],
+      [
+        "Ap Guangzhou",
+        "HighMemoryUsage"
+      ],
+      [
+        "High Memory Instance",
+        "Instance Scaling"
+      ],
+      [
+        "Log Analysis",
+        "Memory Dump"
+      ],
+      [
+        "HighMemoryUsage",
+        "Query Logs"
+      ],
+      [
+        "Get Current Time",
+        "HighMemoryUsage"
+      ],
+      [
+        "Memory Usage",
+        "Regular Memory Analysis"
+      ],
+      [
+        "JVM Parameters",
+        "Memory Usage"
+      ],
+      [
+        "Flow Surge",
+        "HighMemoryUsage"
+      ],
+      [
+        "Memory Usage",
+        "Stress Testing"
+      ]
+    ],
+    "count": 40,
+    "create_time": 1780068848,
+    "update_time": 1780068848,
+    "_id": "doc-38a761b40fcd0ac72cd0c0b516bd3738"
+  },
+  "doc-c0193764eea3af987ff640b97b22cbcb": {
+    "relation_pairs": [
+      [
+        "多地域容灾",
+        "高可用架构"
+      ],
+      [
+        "影响评估",
+        "故障复盘"
+      ],
+      [
+        "Mq",
+        "ServiceUnavailable"
+      ],
+      [
+        "Query Logs",
+        "ServiceUnavailable"
+      ],
+      [
+        "容错设计",
+        "熔断降级"
+      ],
+      [
+        "改进措施",
+        "故障复盘"
+      ],
+      [
+        "发布策略",
+        "金丝雀发布"
+      ],
+      [
+        "性能验证",
+        "紧急处理流程"
+      ],
+      [
+        "400-xxx-5555",
+        "安全团队"
+      ],
+      [
+        "压力测试",
+        "演练测试"
+      ],
+      [
+        "修复网络",
+        "网络故障"
+      ],
+      [
+        "实时监控告警",
+        "监控告警"
+      ],
+      [
+        "Ap Guangzhou",
+        "Query Logs"
+      ],
+      [
+        "内存不足导致OOM",
+        "扩容资源"
+      ],
+      [
+        "Emergency Response Process",
+        "Technical Director"
+      ],
+      [
+        "功能测试",
+        "紧急处理流程"
+      ],
+      [
+        "发布策略",
+        "灰度发布"
+      ],
+      [
+        "混沌工程",
+        "演练测试"
+      ],
+      [
+        "Blue Green Deployment",
+        "ServiceUnavailable"
+      ],
+      [
+        "容错设计",
+        "限流保护"
+      ],
+      [
+        "Dba On-Duty",
+        "Network Team"
+      ],
+      [
+        "文件描述符耗尽",
+        "清理资源"
+      ],
+      [
+        "应急预案演练",
+        "演练测试"
+      ],
+      [
+        "监控告警",
+        "自动故障转移"
+      ],
+      [
+        "Cto",
+        "Emergency Response Process"
+      ],
+      [
+        "清理资源",
+        "端口被占用"
+      ],
+      [
+        "Redis",
+        "ServiceUnavailable"
+      ],
+      [
+        "关键服务冗余",
+        "高可用架构"
+      ],
+      [
+        "定期故障演练",
+        "演练测试"
+      ],
+      [
+        "流量切换",
+        "网络故障"
+      ],
+      [
+        "Database",
+        "ServiceUnavailable"
+      ],
+      [
+        "Emergency Response Document",
+        "Emergency Response Process"
+      ],
+      [
+        "异常自动恢复",
+        "监控告警"
+      ],
+      [
+        "400-xxx-2222",
+        "开发值班"
+      ],
+      [
+        "400-xxx-3333",
+        "DBA值班"
+      ],
+      [
+        "Query Logs",
+        "System Events"
+      ],
+      [
+        "Circuit Breaker",
+        "ServiceUnavailable"
+      ],
+      [
+        "扩容资源",
+        "清理资源"
+      ],
+      [
+        "Canary Release",
+        "ServiceUnavailable"
+      ],
+      [
+        "故障复盘",
+        "文档更新"
+      ],
+      [
+        "Get Current Time",
+        "ServiceUnavailable"
+      ],
+      [
+        "Application Logs",
+        "Query Logs"
+      ],
+      [
+        "多实例部署",
+        "高可用架构"
+      ],
+      [
+        "400-xxx-4444",
+        "网络团队"
+      ],
+      [
+        "容错设计",
+        "超时控制"
+      ],
+      [
+        "Emergency Response Process",
+        "High Availability Architecture Design"
+      ],
+      [
+        "发布策略",
+        "蓝绿部署"
+      ],
+      [
+        "Dba On-Duty",
+        "Security Team"
+      ],
+      [
+        "Emergency Response Process",
+        "Incident Handling Manual"
+      ],
+      [
+        "健康检查",
+        "紧急处理流程"
+      ],
+      [
+        "容错设计",
+        "重试机制"
+      ],
+      [
+        "清理资源",
+        "磁盘空间满"
+      ],
+      [
+        "故障复盘",
+        "根因分析"
+      ],
+      [
+        "数据库主从复制",
+        "高可用架构"
+      ],
+      [
+        "400-xxx-1111",
+        "运维值班"
+      ],
+      [
+        "Network Team",
+        "Security Team"
+      ],
+      [
+        "发布策略",
+        "快速回滚机制"
+      ],
+      [
+        "检查网络",
+        "网络故障"
+      ]
+    ],
+    "count": 58,
+    "create_time": 1780068853,
+    "update_time": 1780068853,
+    "_id": "doc-c0193764eea3af987ff640b97b22cbcb"
+  },
+  "doc-e1f0ffacb5e92819c49ae535383fbbbf": {
+    "relation_pairs": [
+      [
+        "系统资源不足",
+        "限流降级"
+      ],
+      [
+        "紧急处理措施",
+        "降级"
+      ],
+      [
+        "ApGuangzhou",
+        "SlowResponse"
+      ],
+      [
+        "紧急处理措施",
+        "重启"
+      ],
+      [
+        "GetCurrentTime",
+        "SlowResponse"
+      ],
+      [
+        "紧急处理措施",
+        "资源扩容"
+      ],
+      [
+        "架构优化",
+        "长期优化"
+      ],
+      [
+        "系统资源不足",
+        "资源扩容"
+      ],
+      [
+        "DatabaseSlowQuery",
+        "SlowResponse"
+      ],
+      [
+        "ApplicationLogs",
+        "SlowResponse"
+      ],
+      [
+        "SlowResponse",
+        "SystemMetrics"
+      ],
+      [
+        "HighErrorRate",
+        "网络问题"
+      ],
+      [
+        "压力测试",
+        "长期优化"
+      ],
+      [
+        "临时优化",
+        "短期措施"
+      ],
+      [
+        "压缩传输",
+        "网络问题"
+      ],
+      [
+        "系统资源不足",
+        "负载均衡"
+      ],
+      [
+        "HighMemoryUsage",
+        "系统资源不足"
+      ],
+      [
+        "就近访问",
+        "网络问题"
+      ],
+      [
+        "监控完善",
+        "长期优化"
+      ],
+      [
+        "ServiceTimeout",
+        "网络问题"
+      ],
+      [
+        "定位根因",
+        "短期措施"
+      ],
+      [
+        "紧急处理措施",
+        "限流降级"
+      ],
+      [
+        "性能优化",
+        "长期优化"
+      ],
+      [
+        "监控观察",
+        "短期措施"
+      ],
+      [
+        "网络优化",
+        "网络问题"
+      ],
+      [
+        "HighCPUUsage",
+        "系统资源不足"
+      ],
+      [
+        "QueryLogs",
+        "SlowResponse"
+      ]
+    ],
+    "count": 27,
+    "create_time": 1780068856,
+    "update_time": 1780068856,
+    "_id": "doc-e1f0ffacb5e92819c49ae535383fbbbf"
+  },
+  "doc-12f2c2bdbec1de90bc2aa9059cb465ad": {
+    "relation_pairs": [
+      [
+        "区域性股权市场",
+        "推荐机构"
+      ],
+      [
+        "可疑交易",
+        "客户尽职调查"
+      ],
+      [
+        "主办券商的资金交收账户",
+        "成长企业融资业务"
+      ],
+      [
+        "Liquidity Service",
+        "Money Laundering"
+      ],
+      [
+        "投资者",
+        "购买新股后快速转让"
+      ],
+      [
+        "中证登",
+        "非交易过户"
+      ],
+      [
+        "沪深交易所",
+        "股票质押业务"
+      ],
+      [
+        "柜台市场",
+        "证券公司"
+      ],
+      [
+        "客户",
+        "客户尽职调查"
+      ],
+      [
+        "洗钱风险点7",
+        "项目组人员"
+      ],
+      [
+        "Collective Asset Management Contract",
+        "Securities Company (Asset Manager)"
+      ],
+      [
+        "Client Due Diligence",
+        "Institutional Investors"
+      ],
+      [
+        "Fund Sales Customer",
+        "Non-Trading Transfer"
+      ],
+      [
+        "Securities Company",
+        "Trading Execution"
+      ],
+      [
+        "恒逸石化",
+        "楼翔"
+      ],
+      [
+        "Customer-Based Money Laundering Risk Control Mechanism",
+        "Huaan Securities"
+      ],
+      [
+        "Investment Manager",
+        "Securities Company"
+      ],
+      [
+        "Custody Account",
+        "Dedicated Fundraising Settlement Account"
+      ],
+      [
+        "Financial Product Distribution Business",
+        "Private Fund Distribution Business"
+      ],
+      [
+        "单一资产管理业务",
+        "投资者"
+      ],
+      [
+        "Meng",
+        "Zhong Zhong Group"
+      ],
+      [
+        "Money Laundering",
+        "Synchronized Trading"
+      ],
+      [
+        "专项资金账户",
+        "企业"
+      ],
+      [
+        "Sales Institution",
+        "Securities Company (Asset Manager)"
+      ],
+      [
+        "Futures Company",
+        "Securities Company"
+      ],
+      [
+        "可疑交易监测",
+        "股份代持"
+      ],
+      [
+        "洗钱风险点6",
+        "私募基金代销业务"
+      ],
+      [
+        "Issuer",
+        "Rating Agency"
+      ],
+      [
+        "Lu Mouguang",
+        "Zhongtong Machinery Manufacturing Co., Ltd."
+      ],
+      [
+        "企业",
+        "募集资金账户"
+      ],
+      [
+        "Margin Trading",
+        "Securities Company"
+      ],
+      [
+        "Custodian Bank",
+        "Public Fund"
+      ],
+      [
+        "再融资计划",
+        "证券公司"
+      ],
+      [
+        "投资者",
+        "证券公司"
+      ],
+      [
+        "交易所",
+        "做市商"
+      ],
+      [
+        "基金管理人",
+        "洗钱风险点5"
+      ],
+      [
+        "China Securities Depository and Clearing Corporation (CSDC)",
+        "Stock Lending and Borrowing Business"
+      ],
+      [
+        "中国证监会",
+        "公开募集证券投资基金投资顾问业务试点"
+      ],
+      [
+        "Equity Investment",
+        "Securities Company"
+      ],
+      [
+        "Anti-Money Laundering Blacklist",
+        "Securities Company"
+      ],
+      [
+        "Issuer",
+        "Stock Exchange"
+      ],
+      [
+        "Fund Manager",
+        "Investment Decision Procedure"
+      ],
+      [
+        "企业",
+        "结算账户"
+      ],
+      [
+        "Employees",
+        "Insider Trading"
+      ],
+      [
+        "Market Maker Service Agreement",
+        "Securities Company (Market Maker)"
+      ],
+      [
+        "中兴通科",
+        "国泰君安证券"
+      ],
+      [
+        "中央国债登记结算有限责任公司",
+        "银行间债券账户"
+      ],
+      [
+        "Due Diligence",
+        "Securities Company"
+      ],
+      [
+        "并购重组",
+        "质管部门"
+      ],
+      [
+        "再融资计划",
+        "证券交易所"
+      ],
+      [
+        "康隆达",
+        "张某芳"
+      ],
+      [
+        "Bond Trading Platform",
+        "People's Bank of China"
+      ],
+      [
+        "自营类头寸账户",
+        "证券公司"
+      ],
+      [
+        "Huaan Securities",
+        "Securities Standardization Committee"
+      ],
+      [
+        "投资者",
+        "河北TL房地产开发股份公司"
+      ],
+      [
+        "Penny Flippen",
+        "Southport Capital"
+      ],
+      [
+        "Huajin Securities",
+        "Jingtuo Shares"
+      ],
+      [
+        "Legal Advisor",
+        "Regulatory Compliance"
+      ],
+      [
+        "Clearing Funds Account",
+        "Public Fund Distribution Business"
+      ],
+      [
+        "Beijing University of Technology Optoelectronic Technology Laboratory",
+        "Jiangsu Tech Company"
+      ],
+      [
+        "Liu Mou Sheng",
+        "Xin Company"
+      ],
+      [
+        "Li Accounting Firm",
+        "Wang Mouyu"
+      ],
+      [
+        "M. Cassandra Toroian",
+        "主交易账户"
+      ],
+      [
+        "China Securities Depository and Clearing Corporation",
+        "Stock Exchange"
+      ],
+      [
+        "分级资产管理计划",
+        "洗钱风险点6"
+      ],
+      [
+        "Money Laundering",
+        "Non-Transaction Transfer"
+      ],
+      [
+        "区域性股权市场",
+        "新三板"
+      ],
+      [
+        "Incorporated Party",
+        "Securities Company"
+      ],
+      [
+        "Huang Xin",
+        "Jiangsu BenNiu Port Group Co., Ltd."
+      ],
+      [
+        "Comprehensive Settlement Reserve Account",
+        "Fundraising Accounts"
+      ],
+      [
+        "私募基金",
+        "证券公司(研究所)"
+      ],
+      [
+        "区域性股权市场",
+        "审计机构"
+      ],
+      [
+        "Fundraising Accounts",
+        "Investor Fund Account"
+      ],
+      [
+        "创新层",
+        "新三板"
+      ],
+      [
+        "Investor",
+        "Money Laundering Risk Analysis"
+      ],
+      [
+        "上市公司",
+        "证券交易所"
+      ],
+      [
+        "东方证券",
+        "永新股份"
+      ],
+      [
+        "Asset Management Plan",
+        "Stock Pledge Repurchase"
+      ],
+      [
+        "Investment Execution and Trading",
+        "Securities Investment Advisory Business"
+      ],
+      [
+        "Fiberboard 1910 Contract",
+        "Xu Wei"
+      ],
+      [
+        "Regional Equity Market",
+        "Regional Equity Market Transaction Service"
+      ],
+      [
+        "Securities Company",
+        "TA Account"
+      ],
+      [
+        "发行人",
+        "洗钱风险点7"
+      ],
+      [
+        "Investor",
+        "Open-Ended Fund Account"
+      ],
+      [
+        "融入方",
+        "证券公司"
+      ],
+      [
+        "Shengtong Group",
+        "Shengtong Optics"
+      ],
+      [
+        "Shanghai Stock Exchange",
+        "Zhongtong Machinery Manufacturing Co., Ltd."
+      ],
+      [
+        "投资者",
+        "转融通证券出借"
+      ],
+      [
+        "中信中证",
+        "中核钛白"
+      ],
+      [
+        "利益输送",
+        "突击入股"
+      ],
+      [
+        "濮阳市宏丰投资有限公司",
+        "韩学臣"
+      ],
+      [
+        "G Securities Asset Management Subsidiary",
+        "Liu Mou"
+      ],
+      [
+        "劲拓股份",
+        "汇海宏融"
+      ],
+      [
+        "1号基金",
+        "洪浩炜"
+      ],
+      [
+        "基金管理人",
+        "存管银行"
+      ],
+      [
+        "Collective Asset Management Business",
+        "Special Securities Account for Collective Asset Management Plan"
+      ],
+      [
+        "营销管理部",
+        "证券公司"
+      ],
+      [
+        "产品服务提供方",
+        "客户销售金融产品或提供金融服务的第三方"
+      ],
+      [
+        "挂牌公司",
+        "推荐机构"
+      ],
+      [
+        "Legal Advisor",
+        "National Equities Exchange and Quotations"
+      ],
+      [
+        "TA账户",
+        "证券公司"
+      ],
+      [
+        "Securities Finance Company",
+        "Transferring Securities"
+      ],
+      [
+        "Fund Sales Customer",
+        "Rapid Subscription and Redemption"
+      ],
+      [
+        "证券公司",
+        "转融通证券出借"
+      ],
+      [
+        "Money Laundering Risk Analysis",
+        "Securities Company (Market Maker)"
+      ],
+      [
+        "Audit Firm",
+        "CSRC"
+      ],
+      [
+        "Listed Company",
+        "Securities Company (Financial Advisor)"
+      ],
+      [
+        "Futures Introducing Brokerage",
+        "Securities Company"
+      ],
+      [
+        "Shengtong Group",
+        "Shengtong Steel Wire"
+      ],
+      [
+        "北京统某投资基金管理有限公司",
+        "安徽安某控股"
+      ],
+      [
+        "China Securities Regulatory Commission (CSRC)",
+        "Shanghai Sierxin Technology"
+      ],
+      [
+        "证券公司",
+        "证券金融公司"
+      ],
+      [
+        "实际控制人",
+        "客户控股股东"
+      ],
+      [
+        "Investor",
+        "Investor Securities Account"
+      ],
+      [
+        "Bond Custody Account",
+        "Collective Asset Management Business"
+      ],
+      [
+        "Financial Products",
+        "Ma Moujun"
+      ],
+      [
+        "Investment Advisory Service for Public Mutual Funds",
+        "Investor"
+      ],
+      [
+        "Fund Manager",
+        "Private Fund Product"
+      ],
+      [
+        "基金销售支付机构",
+        "基金销售结算资金监督机构"
+      ],
+      [
+        "尽职调查",
+        "并购重组"
+      ],
+      [
+        "投资者",
+        "资产管理人"
+      ],
+      [
+        "洗钱风险点",
+        "管控措施"
+      ],
+      [
+        "上市公司",
+        "主承销商"
+      ],
+      [
+        "G Securities Asset Management Subsidiary",
+        "Private Equity Firm"
+      ],
+      [
+        "国泰君安证券",
+        "福昕软件"
+      ],
+      [
+        "Merger and Acquisition",
+        "Non-Listed Company"
+      ],
+      [
+        "刘玉兰",
+        "张某芳"
+      ],
+      [
+        "挂牌公司",
+        "法律顾问"
+      ],
+      [
+        "Petrobras",
+        "债券发行"
+      ],
+      [
+        "中央国债登记结算有限责任公司",
+        "证券公司"
+      ],
+      [
+        "China Securities Finance Corporation (CSFC)",
+        "Stock Lending and Borrowing Business"
+      ],
+      [
+        "Britt Wright",
+        "Southport Capital"
+      ],
+      [
+        "可疑交易监测",
+        "财务审计机构"
+      ],
+      [
+        "Asset Management Plan",
+        "Investment Manager"
+      ],
+      [
+        "Client Credit Transaction Guarantee Fund Account",
+        "Securities Company"
+      ],
+      [
+        "其他承销商",
+        "其他承销商账户"
+      ],
+      [
+        "存管银行",
+        "期货公司"
+      ],
+      [
+        "成长企业融资业务",
+        "承销团"
+      ],
+      [
+        "投资者",
+        "投资者资金账户"
+      ],
+      [
+        "Bell Rock Capital, LLC",
+        "美国证券交易委员会"
+      ],
+      [
+        "发行人",
+        "洗钱高风险国家或地区"
+      ],
+      [
+        "Fund Sales Institution",
+        "Fund Sales Settlement Dedicated Account"
+      ],
+      [
+        "乐视网",
+        "贾跃亭"
+      ],
+      [
+        "Counterparty",
+        "Huaan Securities"
+      ],
+      [
+        "Funds Clearing Bank",
+        "Securities Company"
+      ],
+      [
+        "Securities Company",
+        "存管银行"
+      ],
+      [
+        "Counterparty (Investors and Other Market Makers)",
+        "Securities Company (Market Maker)"
+      ],
+      [
+        "内幕交易",
+        "管控必要性和可行性分析"
+      ],
+      [
+        "分销协议",
+        "证券公司"
+      ],
+      [
+        "New Third Board",
+        "Securities Company (Market Maker)"
+      ],
+      [
+        "Ma Moujun",
+        "State-Owned Petrochemical Company"
+      ],
+      [
+        "Lu Mouxuan",
+        "Zhongtong Machinery Manufacturing Co., Ltd."
+      ],
+      [
+        "募集账户监督机构",
+        "基金管理人"
+      ],
+      [
+        "Securities Company",
+        "Self-Dealing"
+      ],
+      [
+        "发行人",
+        "持续督导"
+      ],
+      [
+        "上市公司",
+        "可疑交易监测"
+      ],
+      [
+        "Custody Account",
+        "Investor"
+      ],
+      [
+        "基金管理人",
+        "证监会"
+      ],
+      [
+        "Shenwan Lingxin Fund Management Co., Ltd.",
+        "Xu Yuanhang"
+      ],
+      [
+        "报价系统",
+        "证券公司"
+      ],
+      [
+        "Securities Company",
+        "Stock Exchange"
+      ],
+      [
+        "定向发行协议",
+        "证券公司"
+      ],
+      [
+        "发行人",
+        "可疑交易监测系统"
+      ],
+      [
+        "Securities Company",
+        "商业银行"
+      ],
+      [
+        "Issuer",
+        "Related Party"
+      ],
+      [
+        "思创医惠",
+        "营销体系扩建项目"
+      ],
+      [
+        "Potential Listed Company",
+        "Securities Company"
+      ],
+      [
+        "Guarantee Funds",
+        "Investor (Borrower)"
+      ],
+      [
+        "Business Agreement",
+        "Incorporated Party"
+      ],
+      [
+        "发行人",
+        "虚假利好信息"
+      ],
+      [
+        "挂牌公司",
+        "新三板"
+      ],
+      [
+        "岑某",
+        "空壳公司"
+      ],
+      [
+        "公司",
+        "关联方"
+      ],
+      [
+        "基金管理人",
+        "托管银行账户"
+      ],
+      [
+        "证券公司",
+        "资金账户"
+      ],
+      [
+        "券商部门",
+        "营销管理部"
+      ],
+      [
+        "Client Fund Account",
+        "Collective Asset Management Business"
+      ],
+      [
+        "发行人",
+        "标的证券"
+      ],
+      [
+        "做市商",
+        "投资者"
+      ],
+      [
+        "Securities Company",
+        "Serious Deviation from Market Prices"
+      ],
+      [
+        "Asset Management Subsidiary",
+        "Securities Company"
+      ],
+      [
+        "绿能高科",
+        "韩学臣"
+      ],
+      [
+        "Investment Strategy Formulation",
+        "Securities Investment Advisory Business"
+      ],
+      [
+        "Liquidity Provider",
+        "Specialized Securities Account"
+      ],
+      [
+        "招股说明书",
+        "证券公司"
+      ],
+      [
+        "Audit Firm",
+        "Issuer"
+      ],
+      [
+        "主承销商",
+        "承销商"
+      ],
+      [
+        "Margin Account",
+        "Securities Company"
+      ],
+      [
+        "Investor",
+        "Redemption Stage"
+      ],
+      [
+        "反洗钱信息报告专员",
+        "反洗钱及合规监测中心"
+      ],
+      [
+        "(Prospective) Listed Company",
+        "China Securities Regulatory Commission (CSRC)"
+      ],
+      [
+        "洗钱风险点6",
+        "网下投资者"
+      ],
+      [
+        "Chen Mouming",
+        "Li Accounting Firm"
+      ],
+      [
+        "Pan某某",
+        "Taihang Financial Consulting Company"
+      ],
+      [
+        "Lending Party",
+        "Securities Company"
+      ],
+      [
+        "清丰县正乾种植农民专业合作社",
+        "韩学臣"
+      ],
+      [
+        "中信证券",
+        "定增套利"
+      ],
+      [
+        "Investors (Asset Entrustors)",
+        "Tairuoborui Investment Management Company"
+      ],
+      [
+        "发行人",
+        "客户尽职调查"
+      ],
+      [
+        "Liu Wei",
+        "Zhejiang Hong Kong Shenzhen Selected Fund"
+      ],
+      [
+        "Investment Manager",
+        "Suspicious Behavior"
+      ],
+      [
+        "Fund Custody Account",
+        "Investor"
+      ],
+      [
+        "自营资金结算账户",
+        "证券公司"
+      ],
+      [
+        "Client Recognition",
+        "Securities Firm"
+      ],
+      [
+        "Shengtong Group",
+        "Wang Xiusheng"
+      ],
+      [
+        "Securities Company",
+        "Securities Investment Advisory Business"
+      ],
+      [
+        "劲拓股份",
+        "吴某"
+      ],
+      [
+        "China Securities Regulatory Commission (CsRC)",
+        "Investment Management And Operation Stage"
+      ],
+      [
+        "Collusion",
+        "Market Maker"
+      ],
+      [
+        "Futures Company",
+        "Futures Company Margin Account"
+      ],
+      [
+        "定向资产管理计划专用资金账户",
+        "投资者"
+      ],
+      [
+        "Financial Statements",
+        "Securities Company"
+      ],
+      [
+        "Financial Product Distribution Business",
+        "Securities Lending"
+      ],
+      [
+        "Ipo",
+        "募集资金账户"
+      ],
+      [
+        "Prospectus",
+        "Securities Company"
+      ],
+      [
+        "发行人",
+        "股权代持"
+      ],
+      [
+        "中国证监会",
+        "思创医惠"
+      ],
+      [
+        "CSRC",
+        "Issuer"
+      ],
+      [
+        "国泰君安证券",
+        "圆融科技"
+      ],
+      [
+        "Issuer",
+        "Legal Advisor"
+      ],
+      [
+        "Proprietary Fund Settlement Account",
+        "Securities Company"
+      ],
+      [
+        "Securities Fund Investment Consulting Business",
+        "Securities Investment Advisory Business"
+      ],
+      [
+        "Ding Moumou",
+        "Shanghai Municipal Public Security Bureau Economic Investigation Corps"
+      ],
+      [
+        "上市基金流动性服务业务",
+        "做市商"
+      ],
+      [
+        "上市公司",
+        "保荐机构"
+      ],
+      [
+        "Custodian Bank",
+        "Investor"
+      ],
+      [
+        "做市商",
+        "流动性服务协议"
+      ],
+      [
+        "Ipo",
+        "结算账户"
+      ],
+      [
+        "监管银行",
+        "资产管理计划"
+      ],
+      [
+        "Stock Pledge Repurchase Transaction",
+        "融出方"
+      ],
+      [
+        "Fundraising Accounts",
+        "Self-Operated Settlement Reserve Account"
+      ],
+      [
+        "China Securities Regulatory Commission",
+        "Stock Exchange"
+      ],
+      [
+        "Sales Institution",
+        "TA System"
+      ],
+      [
+        "发行人",
+        "可疑行为示例"
+      ],
+      [
+        "公募基金代销客户",
+        "可疑交易监测"
+      ],
+      [
+        "China Securities Regulatory Commission (CSRC)",
+        "Securities Lending Business"
+      ],
+      [
+        "宏丰集团",
+        "韩学臣"
+      ],
+      [
+        "Fund Sales Settlement Special Deposit Account",
+        "Securities Company"
+      ],
+      [
+        "托管机构",
+        "资产管理计划"
+      ],
+      [
+        "融出方",
+        "融出方Securities Account"
+      ],
+      [
+        "Derivatives Trading Account",
+        "Securities Company"
+      ],
+      [
+        "信用业务",
+        "股票质押业务"
+      ],
+      [
+        "合格投资者",
+        "证券公司"
+      ],
+      [
+        "Private Equity Fund",
+        "Private Equity Fund Manager"
+      ],
+      [
+        "Fund Manager",
+        "Public Fund Product"
+      ],
+      [
+        "Sales Institution",
+        "Self-Built TA System"
+      ],
+      [
+        "注册登记账户",
+        "私募基金管理人"
+      ],
+      [
+        "Clearing and Settlement Institution",
+        "Huaan Securities"
+      ],
+      [
+        "发行人",
+        "财务造假"
+      ],
+      [
+        "Tyrone Johnny Lacy, Jr.",
+        "U.S. Securities and Exchange Commission (SEC)"
+      ],
+      [
+        "Issuer",
+        "Securities Company"
+      ],
+      [
+        "Chuangyi Company",
+        "Shanghai Changlv Asset Management Company"
+      ],
+      [
+        "反洗钱信息报告专员",
+        "营销管理部"
+      ],
+      [
+        "Shengtong Chemical",
+        "Shengtong Group"
+      ],
+      [
+        "Centralized Fund Settlement Account",
+        "Securities Company"
+      ],
+      [
+        "场外非标交易",
+        "资产管理业务"
+      ],
+      [
+        "Penny Flippen",
+        "美国证券交易委员会"
+      ],
+      [
+        "China Securities Regulatory Commission (CSRC)",
+        "Securities Company"
+      ],
+      [
+        "Quotation System",
+        "Securities Company"
+      ],
+      [
+        "Shengtong Chemical Co., Ltd.",
+        "Shengtong Group"
+      ],
+      [
+        "基金投顾服务协议",
+        "证券公司"
+      ],
+      [
+        "基础层",
+        "新三板"
+      ],
+      [
+        "Issuer (Prospective Listed Company)",
+        "Securities Company"
+      ],
+      [
+        "Borrower (Securities Company)",
+        "Stock Lending and Borrowing Business"
+      ],
+      [
+        "China Securities Depository and Clearing Corporation",
+        "Securities Company"
+      ],
+      [
+        "公司",
+        "持续性虚假披露"
+      ],
+      [
+        "Client Fund Settlement Account",
+        "Securities Company"
+      ],
+      [
+        "Directed Asset Management Client",
+        "Securities Company"
+      ],
+      [
+        "名单筛查",
+        "网下投资者"
+      ],
+      [
+        "XZZF",
+        "某集团"
+      ],
+      [
+        "Risk Control",
+        "Securities Company"
+      ],
+      [
+        "Bell Rock Capital, LLC",
+        "特拉华州雷霍博斯海滩"
+      ],
+      [
+        "基金管理人",
+        "证券公司"
+      ],
+      [
+        "中信证券",
+        "转融通证券出借"
+      ],
+      [
+        "Wang",
+        "Yang"
+      ],
+      [
+        "场内证券交易",
+        "资产管理业务"
+      ],
+      [
+        "中国证券监督管理委员会",
+        "挂牌公司"
+      ],
+      [
+        "发行人",
+        "法律顾问"
+      ],
+      [
+        "Investor",
+        "Issuer (Prospective Listed Company)"
+      ],
+      [
+        "Capital Structure Optimization",
+        "Refinancing"
+      ],
+      [
+        "企业",
+        "偿债基金账户"
+      ],
+      [
+        "Huili Family Co., Ltd.",
+        "Wang"
+      ],
+      [
+        "Investors",
+        "Mergers and Acquisitions (M&A) Business"
+      ],
+      [
+        "安岳县某公司",
+        "张某某"
+      ],
+      [
+        "上海股权托管交易中心",
+        "陕西XLXM有限责任公司"
+      ],
+      [
+        "Fund Manager",
+        "Fund Operation Outsourcing Agreement"
+      ],
+      [
+        "期货结算账户",
+        "证券公司"
+      ],
+      [
+        "定向资产管理计划专用证券账户",
+        "资产管理人"
+      ],
+      [
+        "Fund Manager",
+        "Third-Party Database"
+      ],
+      [
+        "投资者",
+        "限售股不得融券"
+      ],
+      [
+        "上市公司",
+        "突击入股"
+      ],
+      [
+        "自营业务相关人员",
+        "证券公司"
+      ],
+      [
+        "新三板",
+        "精选层"
+      ],
+      [
+        "中国证券登记结算有限责任公司",
+        "发行人"
+      ],
+      [
+        "定向资产管理计划",
+        "托管账户"
+      ],
+      [
+        "Inventory Stock",
+        "Securities Company (Market Maker)"
+      ],
+      [
+        "Securities Company (Market Maker)",
+        "Valuation Methods"
+      ],
+      [
+        "名单筛查",
+        "集合计划"
+      ],
+      [
+        "从业人员",
+        "拟上市公司"
+      ],
+      [
+        "(Prospective) Listed Company",
+        "Board of Directors"
+      ],
+      [
+        "Financial Fraud",
+        "Issuer"
+      ],
+      [
+        "Fund Management Company",
+        "Public Fund"
+      ],
+      [
+        "债券",
+        "投资者"
+      ],
+      [
+        "Ipo",
+        "专项资金账户"
+      ],
+      [
+        "中信中证",
+        "洪浩炜"
+      ],
+      [
+        "CSRC",
+        "Securities Company"
+      ],
+      [
+        "监督机构",
+        "监督机构账户"
+      ],
+      [
+        "Insider Trading",
+        "Merger and Acquisition"
+      ],
+      [
+        "Fraudulent Listing",
+        "Persistent False Disclosure"
+      ],
+      [
+        "Futures Account",
+        "Futures Company"
+      ],
+      [
+        "Business Plan",
+        "Independent Financial Advisor"
+      ],
+      [
+        "Pledged Securities",
+        "Securities Company"
+      ],
+      [
+        "Ma Moujun",
+        "Zhao Mou"
+      ],
+      [
+        "Jinhong Group",
+        "SWLX Intelligent Drive Fund"
+      ],
+      [
+        "Listed Company",
+        "National Equities Exchange and Quotations System"
+      ],
+      [
+        "发行人",
+        "名单筛查"
+      ],
+      [
+        "SEC",
+        "Tyrone Johnny Lacy, Jr."
+      ],
+      [
+        "保证金资金结算账户",
+        "证券公司"
+      ],
+      [
+        "Securities Company",
+        "Stock Pledge Repurchase Transaction"
+      ],
+      [
+        "区域性股权市场",
+        "沪深北交易所"
+      ],
+      [
+        "Distribution Agreement",
+        "Issuer"
+      ],
+      [
+        "中信证券上海东方路证券营业部",
+        "陈某"
+      ],
+      [
+        "发行人",
+        "股份代持情形"
+      ],
+      [
+        "Brokerage Accounts",
+        "Tyrone Johnny Lacy, Jr."
+      ],
+      [
+        "Lin Kaipeng",
+        "Shanghai Sierxin Technology"
+      ],
+      [
+        "Investment Advisory Service for Public Mutual Funds",
+        "Securities Company"
+      ],
+      [
+        "Britt Wright",
+        "美国证券交易委员会"
+      ],
+      [
+        "Collective Asset Management Plan",
+        "TA System"
+      ],
+      [
+        "Custodian Institution",
+        "Fund Manager or Registration Institution"
+      ],
+      [
+        "Securities Company",
+        "Securities Lending Business"
+      ],
+      [
+        "Financial Advisor",
+        "Target Company"
+      ],
+      [
+        "Broker-Dealers",
+        "Tyrone Johnny Lacy, Jr."
+      ],
+      [
+        "券商部门",
+        "客户"
+      ],
+      [
+        "Due Diligence",
+        "Issuer"
+      ],
+      [
+        "China Securities Depository and Clearing Corporation (China Settlement)",
+        "Securities Company"
+      ],
+      [
+        "Public Fund",
+        "Securities Company"
+      ],
+      [
+        "Due Diligence",
+        "Suspicious Transaction Monitoring"
+      ],
+      [
+        "Client",
+        "Securities Company"
+      ],
+      [
+        "Shanghai Pudong Development Bank",
+        "Yang"
+      ],
+      [
+        "主承销商",
+        "主承销商账户"
+      ],
+      [
+        "拟上市公司",
+        "证券公司"
+      ],
+      [
+        "Huaan Securities",
+        "Stock Exchange"
+      ],
+      [
+        "发行人",
+        "虚假财务信息"
+      ],
+      [
+        "Mergers and Acquisitions (M&A) Business",
+        "Transaction Counterparty"
+      ],
+      [
+        "洗钱风险点3",
+        "集合计划"
+      ],
+      [
+        "Springer Investment Management, Inc.",
+        "美国证券交易委员会"
+      ],
+      [
+        "私募基金管理人",
+        "证券基金业协会"
+      ],
+      [
+        "证券公司",
+        "金融债"
+      ],
+      [
+        "Investment Strategy Formulation",
+        "Securities Company"
+      ],
+      [
+        "Custody Account",
+        "Depository Bank Account"
+      ],
+      [
+        "中证报价系统",
+        "证券公司"
+      ],
+      [
+        "上市公司",
+        "募集资金账户"
+      ],
+      [
+        "反洗钱名单",
+        "受赠与方/继承方"
+      ],
+      [
+        "Securities Accounts",
+        "Securities Financial Corporation"
+      ],
+      [
+        "Collective Asset Management Business",
+        "Open-Ended Securities Investment Fund Account"
+      ],
+      [
+        "Bond Holding by Proxy",
+        "Institutional Investors"
+      ],
+      [
+        "法律顾问",
+        "申请挂牌公司"
+      ],
+      [
+        "张某贝",
+        "易所试"
+      ],
+      [
+        "产品服务提供方",
+        "证券公司"
+      ],
+      [
+        "Registration and Settlement Institution",
+        "Securities Company"
+      ],
+      [
+        "Investors",
+        "Securities Company (Lead Underwriter)"
+      ],
+      [
+        "Fund Custody Institution",
+        "Fund Manager"
+      ],
+      [
+        "Fund Manager or Registration Institution",
+        "Securities Company"
+      ],
+      [
+        "Listed Company",
+        "Stock Exchange"
+      ],
+      [
+        "Profit Prediction Compensation Agreement",
+        "胜利精密"
+      ],
+      [
+        "Fixed Income Platform",
+        "Securities Company"
+      ],
+      [
+        "Investor",
+        "Securities Company Counter Market Account"
+      ],
+      [
+        "徐卫",
+        "黄鑫"
+      ],
+      [
+        "Illegal Funds",
+        "Investors"
+      ],
+      [
+        "Huaan Securities",
+        "Research Content and Method"
+      ],
+      [
+        "发行人",
+        "股票市场"
+      ],
+      [
+        "Jiang Jun",
+        "Xu Wei"
+      ],
+      [
+        "Bond Trading Platform",
+        "Securities Company"
+      ],
+      [
+        "Securities Company",
+        "Shanghai Stock Exchange"
+      ],
+      [
+        "中国证券监督管理委员会",
+        "再融资计划"
+      ],
+      [
+        "Securities Lender (or Corresponding Settlement Participant) Fund Settlement Account",
+        "Securities Lender Ordinary Securities Account"
+      ],
+      [
+        "China Clearing and Settlement Corporation",
+        "Investors"
+      ],
+      [
+        "Aig",
+        "Financial Audit"
+      ],
+      [
+        "(Prospective) Listed Company",
+        "Special Project Team"
+      ],
+      [
+        "投资者",
+        "投资者证券账户"
+      ],
+      [
+        "Fund Manager",
+        "Key Business Personnel"
+      ],
+      [
+        "Futures Company",
+        "Futures Settlement Account"
+      ],
+      [
+        "Custodian",
+        "Fund Management Company"
+      ],
+      [
+        "Custodian",
+        "TA System"
+      ],
+      [
+        "Futures Company",
+        "Futures Fund Account"
+      ],
+      [
+        "Issuer (Prospective Listed Company)",
+        "Market Promotion"
+      ],
+      [
+        "承销商",
+        "资金账户"
+      ],
+      [
+        "China Securities Regulatory Commission",
+        "Collective Asset Management Business"
+      ],
+      [
+        "承销协议",
+        "证券公司"
+      ],
+      [
+        "Bond Issuer",
+        "Clearing Bank"
+      ],
+      [
+        "中国证券登记结算有限责任公司",
+        "证券公司"
+      ],
+      [
+        "Illegal Collateral",
+        "Investor"
+      ],
+      [
+        "反洗钱名单",
+        "证券业违法违规记录"
+      ],
+      [
+        "Exchange Traded Fund (Etf)",
+        "Market Maker"
+      ],
+      [
+        "区域性股权市场",
+        "投资者资金账户"
+      ],
+      [
+        "M. Cassandra Toroian",
+        "客户账户"
+      ],
+      [
+        "Fund Account",
+        "Securities Company"
+      ],
+      [
+        "Ipo",
+        "主承销商的资金交收账户"
+      ],
+      [
+        "Client (Investor)",
+        "Investment Advisory Service Agreement"
+      ],
+      [
+        "Fund Account",
+        "Public Fund Distribution Business"
+      ],
+      [
+        "Collective Asset Management Plan",
+        "Securities Company"
+      ],
+      [
+        "中泰证券",
+        "易所试"
+      ],
+      [
+        "Qualified Investors",
+        "Small Collective Asset Management Business"
+      ],
+      [
+        "Institutional Investors",
+        "Secondary Market"
+      ],
+      [
+        "乔卫平",
+        "老鼠仓交易"
+      ],
+      [
+        "Audit Institution",
+        "Issuer"
+      ],
+      [
+        "Tang Mouhong",
+        "Xu Wei"
+      ],
+      [
+        "审计机构",
+        "成长企业融资业务"
+      ],
+      [
+        "Fund Product Securities Account",
+        "Securities Company"
+      ],
+      [
+        "Analyst",
+        "Research Report"
+      ],
+      [
+        "刘汉",
+        "某集团"
+      ],
+      [
+        "Outsourcing Institution",
+        "Regulatory Requirements"
+      ],
+      [
+        "Credit Account",
+        "Investor"
+      ],
+      [
+        "基金份额持有人",
+        "基金管理人"
+      ],
+      [
+        "Centralized Trading Room",
+        "Securities Company"
+      ],
+      [
+        "投资收益分配",
+        "证券公司投资顾问人员"
+      ],
+      [
+        "常州雷硕贸易有限公司",
+        "黄鑫"
+      ],
+      [
+        "Investor (Asset Entruster)",
+        "Securities Company (Asset Manager)"
+      ],
+      [
+        "Anti-Money Laundering (AML) Screening",
+        "Securities Lending"
+      ],
+      [
+        "公司",
+        "实际控制人"
+      ],
+      [
+        "Regulatory Authority",
+        "Securities Company"
+      ],
+      [
+        "收益凭证",
+        "机构间私募产品报价与服务系统"
+      ],
+      [
+        "投资者",
+        "白名单"
+      ],
+      [
+        "做市商",
+        "计划财务部"
+      ],
+      [
+        "王泽龙",
+        "韩雨辰"
+      ],
+      [
+        "并购重组",
+        "证券公司"
+      ],
+      [
+        "Customer Settlement Margin Account",
+        "Securities Company"
+      ],
+      [
+        "Anti-Money Laundering List",
+        "Fund Manager"
+      ],
+      [
+        "Custodian Bank",
+        "Securities Company"
+      ],
+      [
+        "专用证券账户",
+        "做市商"
+      ],
+      [
+        "Compliance",
+        "Insider Trading"
+      ],
+      [
+        "洗钱",
+        "股权代持"
+      ],
+      [
+        "Investor",
+        "Outsourcing Institution"
+      ],
+      [
+        "China Securities Regulatory Commission",
+        "Securities Company"
+      ],
+      [
+        "G公司",
+        "Y公司"
+      ],
+      [
+        "Private Equity Funds",
+        "Securities Company"
+      ],
+      [
+        "证券公司",
+        "金融产品管理人"
+      ],
+      [
+        "Price Manipulation",
+        "Securities Company"
+      ],
+      [
+        "Securities Account",
+        "Securities Company"
+      ],
+      [
+        "并购重组",
+        "证券交易所"
+      ],
+      [
+        "政府机构",
+        "证券公司"
+      ],
+      [
+        "Investor",
+        "Sales Institution"
+      ],
+      [
+        "常州市常信装饰有限公司",
+        "黄鑫"
+      ],
+      [
+        "Investors",
+        "Stock Transfer System"
+      ],
+      [
+        "Fund Manager",
+        "Regulatory Authority"
+      ],
+      [
+        "Custodian",
+        "Securities Company"
+      ],
+      [
+        "Qi Lei",
+        "Qiao Weiping"
+      ],
+      [
+        "Consultation Fee",
+        "Shanghai Hcf"
+      ],
+      [
+        "上市公司",
+        "实际控制人"
+      ],
+      [
+        "Anti-Money Laundering Blacklist",
+        "Due Diligence"
+      ],
+      [
+        "Customer Fund Settlement Account",
+        "Securities Company"
+      ],
+      [
+        "Financial Fraud",
+        "Profit Forecasting"
+      ],
+      [
+        "北京股权交易中心",
+        "北京股权登记管理中心有限公司"
+      ],
+      [
+        "Fund Manager",
+        "Liquidity Provider"
+      ],
+      [
+        "Issuer",
+        "Regulatory Authority"
+      ],
+      [
+        "Bond Trading Platform",
+        "Custodian Institution"
+      ],
+      [
+        "Securities Company",
+        "Securities Company's Fund Settlement Account"
+      ],
+      [
+        "两大证券交易所",
+        "转融通证券出借"
+      ],
+      [
+        "债券",
+        "发行人"
+      ],
+      [
+        "Custodian",
+        "Valuation System"
+      ],
+      [
+        "上市公司",
+        "承销商"
+      ],
+      [
+        "医惠科技",
+        "思创医惠"
+      ],
+      [
+        "申请挂牌公司",
+        "证券公司"
+      ],
+      [
+        "Securities Company",
+        "Securities Finance Company"
+      ],
+      [
+        "Shanghai E Co., Ltd.",
+        "Tujian Dong"
+      ],
+      [
+        "洗钱",
+        "资金来源不明"
+      ],
+      [
+        "China Clearing and Settlement Corporation",
+        "Securities Company (Lead Underwriter)"
+      ],
+      [
+        "Non-Public Offering Stock Discount Price",
+        "Securities Lending"
+      ],
+      [
+        "Huang Xin",
+        "Jiang Jun"
+      ],
+      [
+        "A-Shares",
+        "融入方"
+      ],
+      [
+        "基金销售机构",
+        "证券公司"
+      ],
+      [
+        "Money Laundering",
+        "刘汉"
+      ],
+      [
+        "Instant Deposit Credit",
+        "Syed Arham Arbab"
+      ],
+      [
+        "集合资产管理计划",
+        "非交易过户"
+      ],
+      [
+        "付强",
+        "易所试"
+      ],
+      [
+        "Financial Fraud",
+        "Initial Public Offering (IPO)"
+      ],
+      [
+        "乐视网",
+        "平安证券"
+      ],
+      [
+        "Fund Company",
+        "Stocks And Bonds"
+      ],
+      [
+        "Client Capital Account",
+        "Collective Asset Management Business"
+      ],
+      [
+        "Jingtuo Shares",
+        "Junru Assets"
+      ],
+      [
+        "徐卫",
+        "蒋君"
+      ],
+      [
+        "创亿公司",
+        "汝凯"
+      ],
+      [
+        "Fraudulent Listing",
+        "Media"
+      ],
+      [
+        "Investor",
+        "Market Manipulation"
+      ],
+      [
+        "公司",
+        "股份代持"
+      ],
+      [
+        "Listed Companies",
+        "Securities Company (Market Maker)"
+      ],
+      [
+        "Li Xiongying",
+        "Shanghai Sierxin Technology"
+      ],
+      [
+        "Fund Custody Business",
+        "Securities Company"
+      ],
+      [
+        "定向资产管理计划专用资金账户",
+        "托管账户"
+      ],
+      [
+        "孟某",
+        "空壳公司"
+      ],
+      [
+        "China Securities Quotation System",
+        "Securities Company"
+      ],
+      [
+        "Securities Company",
+        "Underwriting Syndicate"
+      ],
+      [
+        "China Securities Investment Fund Association",
+        "Securities Company"
+      ],
+      [
+        "外包服务协议",
+        "证券公司"
+      ],
+      [
+        "券商",
+        "基金管理人"
+      ],
+      [
+        "康隆达",
+        "陈某丽"
+      ],
+      [
+        "Equity Holding",
+        "Investors"
+      ],
+      [
+        "G Securities Company",
+        "Y Investment Company"
+      ],
+      [
+        "Investor Fund Account",
+        "Investor Securities Account"
+      ],
+      [
+        "Ipo",
+        "中国证券登记结算有限责任公司"
+      ],
+      [
+        "Investor",
+        "Investor Fund Account"
+      ],
+      [
+        "Main Underwriter",
+        "Other Underwriters"
+      ],
+      [
+        "Independent Financial Advisor",
+        "Transaction Valuation"
+      ],
+      [
+        "Wang Zelong",
+        "Zhonghe Titanium White"
+      ],
+      [
+        "Investor",
+        "Reverse Trading"
+      ],
+      [
+        "基金交易账户",
+        "证券公司"
+      ],
+      [
+        "Inquiry and Feedback",
+        "Stock Exchange"
+      ],
+      [
+        "Investors",
+        "Securities Company (Market Maker)"
+      ],
+      [
+        "发行人",
+        "承销协议"
+      ],
+      [
+        "韩学臣",
+        "龙都瑞祥生态园"
+      ],
+      [
+        "上海HCF股权投资管理有限公司",
+        "陕西XLXM有限责任公司"
+      ],
+      [
+        "发行人",
+        "洗钱风险点6"
+      ],
+      [
+        "Identity Verification",
+        "Investor"
+      ],
+      [
+        "交易平台",
+        "收益凭证"
+      ],
+      [
+        "Huaan Securities",
+        "PricewaterhouseCoopers Management Consulting (Shanghai) Co., Ltd."
+      ],
+      [
+        "Listed Company",
+        "Regional Equity Market"
+      ],
+      [
+        "China Clearing",
+        "Securities Company"
+      ],
+      [
+        "中信中证",
+        "中信证券"
+      ],
+      [
+        "Lu Mouwang",
+        "Zhongtong Machinery Manufacturing Co., Ltd."
+      ],
+      [
+        "Hu Moumou",
+        "Shanghai Municipal Public Security Bureau Economic Investigation Corps"
+      ],
+      [
+        "可疑交易监测",
+        "集合计划"
+      ],
+      [
+        "券商部门",
+        "衍生品经理人"
+      ],
+      [
+        "China Securities Regulatory Commission",
+        "Securities Company (Asset Manager)"
+      ],
+      [
+        "Bond Trading Platform",
+        "Two-Way Quotation Dealer"
+      ],
+      [
+        "Fund Custody Account",
+        "Private Equity Fund"
+      ],
+      [
+        "Investment Advisory Service for Public Mutual Funds",
+        "Regulatory Authority"
+      ],
+      [
+        "Securities Company",
+        "Transaction Counterparty"
+      ],
+      [
+        "Shanghai Sierxin Technology",
+        "Yang Lu"
+      ],
+      [
+        "CCDC",
+        "Securities Company"
+      ],
+      [
+        "Issuer",
+        "Suspicious Transaction Monitoring"
+      ],
+      [
+        "Fund Manager",
+        "Registration and Settlement Institution"
+      ],
+      [
+        "做市商",
+        "全国股转系统"
+      ],
+      [
+        "林某",
+        "汇海宏融"
+      ],
+      [
+        "Bank Account for Time Deposits",
+        "Collective Asset Management Business"
+      ],
+      [
+        "Client (Investor)",
+        "Securities Investment Advisory Business"
+      ],
+      [
+        "Insider Trading",
+        "Money Laundering"
+      ],
+      [
+        "Issuer",
+        "Nominee Shareholding"
+      ],
+      [
+        "Listed Company",
+        "Mergers and Acquisitions (M&A) Business"
+      ],
+      [
+        "洗钱风险点1",
+        "集合计划"
+      ],
+      [
+        "Custodian Account",
+        "Subscription Account"
+      ],
+      [
+        "National Equities Exchange and Quotations (NEEQ)",
+        "Securities Company (Market Maker)"
+      ],
+      [
+        "Securities Company",
+        "Securities Financial Corporation"
+      ],
+      [
+        "Investment Monitoring and Reporting",
+        "Securities Investment Advisory Business"
+      ],
+      [
+        "Futures Brokerage Account",
+        "Futures Company"
+      ],
+      [
+        "Michael E. Lewitt",
+        "Third Friday Management, LLC"
+      ],
+      [
+        "债券",
+        "证券公司"
+      ],
+      [
+        "Shanghai Municipal Public Security Bureau Economic Investigation Corps",
+        "Zhang Moumou"
+      ],
+      [
+        "Research Report Platform",
+        "Securities Company"
+      ],
+      [
+        "Customer",
+        "Huaan Securities"
+      ],
+      [
+        "Securities Company",
+        "Stock Exchange and Counter Market"
+      ],
+      [
+        "IPO",
+        "网下配售"
+      ],
+      [
+        "CDCC TA System",
+        "Sales Institution"
+      ],
+      [
+        "Authorized Account",
+        "Securities Company"
+      ],
+      [
+        "交易对手方",
+        "证券公司"
+      ],
+      [
+        "Compliance Check",
+        "Securities Company"
+      ],
+      [
+        "Issuer",
+        "Lead Underwriter"
+      ],
+      [
+        "基金市场",
+        "投资者"
+      ],
+      [
+        "Autonomy",
+        "惠普公司"
+      ],
+      [
+        "Securities Company",
+        "Shenzhen Stock Exchange"
+      ],
+      [
+        "中国证券监督管理委员会",
+        "发行人"
+      ],
+      [
+        "Investor",
+        "Regular Account"
+      ],
+      [
+        "蒋君",
+        "黄鑫"
+      ],
+      [
+        "Liquidation Group",
+        "Securities Company"
+      ],
+      [
+        "Investment Advisory Service Agreement",
+        "Securities Company"
+      ],
+      [
+        "Outsourcing Institution",
+        "Securities Company"
+      ],
+      [
+        "中某中基集团",
+        "庄某"
+      ],
+      [
+        "上市公司",
+        "中国证监会"
+      ],
+      [
+        "Asset Management Plan",
+        "Criminal"
+      ],
+      [
+        "Fixed Income Pricing",
+        "Securities Company"
+      ],
+      [
+        "China Securities Depository and Clearing Corporation (CSDC)",
+        "Securities Company"
+      ],
+      [
+        "河北TL房地产开发股份公司",
+        "陕西证监局"
+      ],
+      [
+        "上市公司",
+        "承销团(分销商)"
+      ],
+      [
+        "Listed Company",
+        "New Third Board Market"
+      ],
+      [
+        "Securities Company",
+        "Special Account for Fund Raising and Settlement"
+      ],
+      [
+        "出借人",
+        "证券公司"
+      ],
+      [
+        "Stock Exchange",
+        "Trustee Manager"
+      ],
+      [
+        "定期存款账户",
+        "托管账户"
+      ],
+      [
+        "Investment Manager",
+        "Trader"
+      ],
+      [
+        "Anti-Money Laundering List",
+        "融入方"
+      ],
+      [
+        "吴某",
+        "陕西国际信托股份有限公司-陕国投·金元宝31号证券投资集合资金信托计划B类份额"
+      ],
+      [
+        "做市商",
+        "清算机构"
+      ],
+      [
+        "Jin Mou1",
+        "Jin Mou2"
+      ],
+      [
+        "华宝信托有限责任公司-辉煌184号单一资金信托",
+        "吴某"
+      ],
+      [
+        "Asset Management Plan",
+        "Investors (Asset Entrustors)"
+      ],
+      [
+        "发行人",
+        "媒体"
+      ],
+      [
+        "Custodian Account",
+        "Fund Manager"
+      ],
+      [
+        "(Prospective) Listed Company",
+        "Investor"
+      ],
+      [
+        "投资者",
+        "转融券约定申报"
+      ],
+      [
+        "专项资金账户",
+        "其他承销商"
+      ],
+      [
+        "期货公司",
+        "期货公司保证金账户"
+      ],
+      [
+        "Market Manipulation Event",
+        "New Third Board Market"
+      ],
+      [
+        "关联方",
+        "发行人"
+      ],
+      [
+        "公司",
+        "财务审计机构"
+      ],
+      [
+        "商业银行",
+        "证券公司"
+      ],
+      [
+        "Exchange",
+        "Securities Company (Market Maker)"
+      ],
+      [
+        "Independent Financial Advisor",
+        "Regulatory Compliance"
+      ],
+      [
+        "证券公司",
+        "转融券约定申报"
+      ],
+      [
+        "Total Return Swaps",
+        "Wang Zelong"
+      ],
+      [
+        "Listing Committee Meeting",
+        "Stock Exchange"
+      ],
+      [
+        "区域性股权市场",
+        "监管机构"
+      ],
+      [
+        "Fund Manager",
+        "Securities Fund Industry Association"
+      ],
+      [
+        "投资者",
+        "新股"
+      ],
+      [
+        "兴业期货-进取1号集合资产管理计划",
+        "陈某"
+      ],
+      [
+        "可疑交易监测",
+        "突击入股"
+      ],
+      [
+        "Ma Moujun",
+        "Ma Moujun's Brother"
+      ],
+      [
+        "Fraudulent Listing",
+        "Lianxun Securities"
+      ],
+      [
+        "Guarantee Securities",
+        "Investor (Borrower)"
+      ],
+      [
+        "Securities Company",
+        "融入方"
+      ],
+      [
+        "Fund Accounting and Valuation",
+        "Fund Valuation and Calculation Institution"
+      ],
+      [
+        "上市公司",
+        "法律顾问"
+      ],
+      [
+        "China Interbank Market Dealers Association",
+        "Securities Company"
+      ],
+      [
+        "名单筛查",
+        "客户尽职调查"
+      ],
+      [
+        "Dedicated Fund Account",
+        "Securities Company"
+      ],
+      [
+        "Audit Firm",
+        "National Equities Exchange and Quotations"
+      ],
+      [
+        "可疑交易监测",
+        "基金账户"
+      ],
+      [
+        "中国证监会",
+        "发行人"
+      ],
+      [
+        "Performance Evaluation",
+        "Securities Company"
+      ],
+      [
+        "恒逸集团",
+        "施某红"
+      ],
+      [
+        "授权账户交易指令执行",
+        "证券公司投资顾问人员"
+      ],
+      [
+        "Research Report",
+        "Securities Company"
+      ],
+      [
+        "China Securities Depository and Clearing Corporation Limited",
+        "Settlement Margin/Provisional Payment Account"
+      ],
+      [
+        "Jiangsu Tech Company",
+        "Yang Lun"
+      ],
+      [
+        "Investor",
+        "Investor Cash Account"
+      ],
+      [
+        "债券交易平台",
+        "证券公司"
+      ],
+      [
+        "Investor",
+        "Third-Party Custody Account"
+      ],
+      [
+        "Centralized Securities Settlement Account",
+        "Securities Company"
+      ],
+      [
+        "Huabei Securities",
+        "Zhang Rukai"
+      ],
+      [
+        "(Prospective) Listed Company",
+        "Underwriter"
+      ],
+      [
+        "Li Accounting Firm",
+        "Zhongtong Machinery Manufacturing Co., Ltd."
+      ],
+      [
+        "Pan某某",
+        "Taihang Financial Consulting Ji Zhou Branch"
+      ],
+      [
+        "Institutional Investors",
+        "Suspicious Transaction Monitoring"
+      ],
+      [
+        "Legal Counsel",
+        "Merger and Acquisition Process"
+      ],
+      [
+        "CSDC",
+        "Securities Company"
+      ],
+      [
+        "China Securities Depository and Clearing Corporation Limited",
+        "National Equities Exchange and Quotations System"
+      ],
+      [
+        "Independent Financial Advisor",
+        "Listed Company"
+      ],
+      [
+        "证券公司投资顾问人员",
+        "资金使用审批流程"
+      ],
+      [
+        "易所试",
+        "郝钢"
+      ],
+      [
+        "张某芳",
+        "陈某丽"
+      ],
+      [
+        "Independent Financial Advisor",
+        "Tax Planning"
+      ],
+      [
+        "发行人",
+        "洗钱风险点4"
+      ],
+      [
+        "Employee Collusion",
+        "Securities Company"
+      ],
+      [
+        "出借人",
+        "证券金融公司"
+      ],
+      [
+        "Buyer",
+        "Target Company"
+      ],
+      [
+        "Independent Financial Advisor",
+        "Payment Method"
+      ],
+      [
+        "National Interbank Funding Center",
+        "Securities Company"
+      ],
+      [
+        "Securities Company",
+        "Suspicious Transaction Monitoring"
+      ],
+      [
+        "投资者",
+        "证券公司(研究所)"
+      ],
+      [
+        "中国证券监督管理委员会",
+        "证券公司"
+      ],
+      [
+        "China Securities Regulatory Commission",
+        "Financial Fraud"
+      ],
+      [
+        "Illegal Fund Transfer",
+        "Tokyo Electric Power Company (Tepco)"
+      ],
+      [
+        "北京股权交易中心",
+        "区域性股权市场"
+      ],
+      [
+        "Abnormal Trading Behavior",
+        "Securities Company"
+      ],
+      [
+        "融入方",
+        "融入方Securities Account"
+      ],
+      [
+        "上市公司",
+        "审计机构"
+      ],
+      [
+        "主办券商",
+        "成长企业融资业务"
+      ],
+      [
+        "北京统某投资基金管理有限公司",
+        "郭某"
+      ],
+      [
+        "Audit Firm",
+        "Issuer (Prospective Listed Company)"
+      ],
+      [
+        "Client Due Diligence",
+        "Financial Fraud"
+      ],
+      [
+        "投资者",
+        "期货公司"
+      ],
+      [
+        "Securities Company (Financial Advisor)",
+        "Transaction Counterparty"
+      ],
+      [
+        "中某中基集团",
+        "空壳公司"
+      ],
+      [
+        "海通证券",
+        "王泽龙"
+      ],
+      [
+        "基金管理公司",
+        "注册登记机构"
+      ],
+      [
+        "New Third Board Market",
+        "Securities Company (Market Maker)"
+      ],
+      [
+        "老鼠仓交易",
+        "齐蕾"
+      ],
+      [
+        "基金管理人",
+        "基金运营外包业务"
+      ],
+      [
+        "Britt Wright",
+        "Horizon"
+      ],
+      [
+        "HHLR",
+        "隆基绿能"
+      ],
+      [
+        "National Equities Exchange and Quotations System",
+        "Securities Company (Market Maker)"
+      ],
+      [
+        "并购重组",
+        "谈判"
+      ],
+      [
+        "Custodian Account",
+        "Investor"
+      ],
+      [
+        "专项资金账户",
+        "成长企业融资业务"
+      ],
+      [
+        "上市公司",
+        "证券公司(研究所)"
+      ],
+      [
+        "Keith Springe",
+        "Springer Financial Advisors (SFA)"
+      ],
+      [
+        "上市公司",
+        "虚假财务信息"
+      ],
+      [
+        "Distributor",
+        "Lead Underwriter"
+      ],
+      [
+        "Liu Wei",
+        "Tang Mouqing Securities Account"
+      ],
+      [
+        "Proprietary Securities Account",
+        "Securities Company"
+      ],
+      [
+        "Securities Company",
+        "Securities Company's Securities Settlement Account"
+      ],
+      [
+        "发行人",
+        "财务审计机构"
+      ],
+      [
+        "其他承销商",
+        "托管账户"
+      ],
+      [
+        "Ma Moujun",
+        "Xu Mou"
+      ],
+      [
+        "Fund Manager",
+        "Fund Manager's Clearing Fund Account"
+      ],
+      [
+        "Client Credit Transaction Guarantee Securities Account",
+        "Securities Company"
+      ],
+      [
+        "汤某红",
+        "黄鑫"
+      ],
+      [
+        "Investors",
+        "Securities Company"
+      ],
+      [
+        "内核",
+        "并购重组"
+      ],
+      [
+        "可疑交易监测",
+        "资产管理计划"
+      ],
+      [
+        "Fund Manager",
+        "Private Fund Investment Operations"
+      ],
+      [
+        "Custodian Bank (Asset Custodian)",
+        "Investor (Asset Entruster)"
+      ],
+      [
+        "交易佣金模式",
+        "发布证券研究报告业务"
+      ],
+      [
+        "上市公司",
+        "持续性虚假披露"
+      ],
+      [
+        "Project Team Members",
+        "Xlxm"
+      ],
+      [
+        "洗钱风险点8",
+        "资产管理计划投资经理"
+      ],
+      [
+        "Insider Trading",
+        "Project Team Key Personnel"
+      ],
+      [
+        "证券公司",
+        "辅导协议"
+      ],
+      [
+        "Li Accounting Firm",
+        "Xu Mou"
+      ],
+      [
+        "发行人",
+        "洗钱风险点5"
+      ],
+      [
+        "Customer-Based Money Laundering Risk Control Mechanism",
+        "Securities Industry"
+      ],
+      [
+        "融入方",
+        "融入方Dedicated Funding Account"
+      ],
+      [
+        "Issuer",
+        "Trustee Manager"
+      ],
+      [
+        "区域性股权市场",
+        "新三板市场"
+      ],
+      [
+        "Fund Sales Settlement Dedicated Account",
+        "Securities Company"
+      ],
+      [
+        "中核钛白",
+        "王泽龙"
+      ],
+      [
+        "Investor",
+        "Public Fund"
+      ],
+      [
+        "河北TL房地产开发股份公司",
+        "重庆股转中心"
+      ],
+      [
+        "Anti-Money Laundering List",
+        "Investor Screening"
+      ],
+      [
+        "做市专用证券账户",
+        "做市商"
+      ],
+      [
+        "中国证监会",
+        "并购重组"
+      ],
+      [
+        "保荐机构",
+        "发行人"
+      ],
+      [
+        "承销商",
+        "挂牌公司"
+      ],
+      [
+        "Custodian Bank",
+        "Investor (Borrower)"
+      ],
+      [
+        "Shanghai Sierxin Technology",
+        "Shanghai Stock Exchange"
+      ],
+      [
+        "Market Promotion",
+        "Underwriting Syndicate"
+      ],
+      [
+        "Issuer",
+        "Sponsor Institution Project Team"
+      ],
+      [
+        "China Securities Regulatory Commission",
+        "Issuer"
+      ],
+      [
+        "Changzhou Changxin Decoration Co., Ltd.",
+        "Xu Wei"
+      ],
+      [
+        "Securities Lender",
+        "Stock Lending and Borrowing Business"
+      ],
+      [
+        "保荐协议",
+        "发行人"
+      ],
+      [
+        "Fund Manager",
+        "Fund Net Value Calculation"
+      ],
+      [
+        "托管账户",
+        "银行结算账户"
+      ],
+      [
+        "中国结算",
+        "证券公司"
+      ],
+      [
+        "IPO配售",
+        "网下配售"
+      ],
+      [
+        "Changzhou Leishuo Trading Co., Ltd.",
+        "Xu Wei"
+      ],
+      [
+        "Counterparty",
+        "Securities Company"
+      ],
+      [
+        "Cash Account",
+        "Securities Company"
+      ],
+      [
+        "Money Laundering",
+        "Securities Crime"
+      ],
+      [
+        "Shanghai Hcf",
+        "Xlxm"
+      ],
+      [
+        "证券公司",
+        "资管产品管理人"
+      ],
+      [
+        "智诚光学",
+        "胜利精密"
+      ],
+      [
+        "发布证券研究报告业务",
+        "投资评级"
+      ],
+      [
+        "成长企业融资业务",
+        "托管账户"
+      ],
+      [
+        "主承销商",
+        "分销协议"
+      ],
+      [
+        "Investor",
+        "Private Fund Products"
+      ],
+      [
+        "二级市场",
+        "投资者"
+      ],
+      [
+        "Money Laundering Risk Management System",
+        "Non-Brokerage Business"
+      ],
+      [
+        "Independent Financial Advisor",
+        "Synergy Assessment"
+      ],
+      [
+        "做市商",
+        "监管机构"
+      ],
+      [
+        "基金投资者",
+        "基金管理人"
+      ],
+      [
+        "客户",
+        "证券公司"
+      ],
+      [
+        "Stock Pledge Repurchase Transaction",
+        "融入方"
+      ],
+      [
+        "Securities Company",
+        "Third-Party Custody Platform"
+      ],
+      [
+        "北京股权交易中心",
+        "备案确认函"
+      ],
+      [
+        "Continuity of Business",
+        "Stock Lending and Borrowing Business"
+      ],
+      [
+        "Investors",
+        "Public Mutual Fund Distribution Business"
+      ],
+      [
+        "Outsourcing Services",
+        "Securities Company"
+      ],
+      [
+        "Custodian",
+        "Custody Account"
+      ],
+      [
+        "Liu Wei",
+        "Tang Mouqing"
+      ],
+      [
+        "做市商",
+        "基金管理人"
+      ],
+      [
+        "Custody Account",
+        "Securities Company"
+      ],
+      [
+        "Business Partner",
+        "Huaan Securities"
+      ],
+      [
+        "Changzhou Changxin Decoration Co., Ltd.",
+        "Huang Xin"
+      ],
+      [
+        "期货账户",
+        "证券公司"
+      ],
+      [
+        "保荐机构",
+        "承销协议"
+      ],
+      [
+        "Investment Advisor",
+        "Securities Investment Advisory Business"
+      ],
+      [
+        "Independent Financial Advisor",
+        "Legal Documents"
+      ],
+      [
+        "China Securities Depository and Clearing Corporation (CSDC) TA Account",
+        "Investor"
+      ],
+      [
+        "Changzhou Leishuo Trading Co., Ltd.",
+        "Huang Xin"
+      ],
+      [
+        "(Prospective) Listed Company",
+        "Legal Advisor"
+      ],
+      [
+        "Legal Counsel",
+        "Listed Company"
+      ],
+      [
+        "Stock Sales Organization",
+        "Underwriting Syndicate"
+      ],
+      [
+        "融出方",
+        "资产管理计划"
+      ],
+      [
+        "Dedicated Securities Account",
+        "Securities Company"
+      ],
+      [
+        "Calisto Tanzi",
+        "Parmalat"
+      ],
+      [
+        "Huishan Dairy",
+        "Persistent False Disclosure"
+      ],
+      [
+        "Exchange",
+        "Securities Company"
+      ],
+      [
+        "Listed Company",
+        "Securities Company (Market Maker)"
+      ],
+      [
+        "Fund Raising and Settlement Special Account",
+        "Private Equity Fund"
+      ],
+      [
+        "Horizon",
+        "Michael Mooney"
+      ],
+      [
+        "Fund Manager",
+        "Outsourcing Institution"
+      ],
+      [
+        "Custodian Institution",
+        "Fund Manager"
+      ],
+      [
+        "Investor (Borrower)",
+        "Securities Company"
+      ],
+      [
+        "基础资产",
+        "资产服务机构"
+      ],
+      [
+        "Chen Moumou",
+        "Shanghai Municipal Public Security Bureau Economic Investigation Corps"
+      ],
+      [
+        "Anti-Money Laundering List",
+        "Stock Pledge Repurchase Business"
+      ],
+      [
+        "中国证监会期货市场监控中心",
+        "期货公司"
+      ],
+      [
+        "New Third Board Market",
+        "Regulatory and Information Disclosure Stage"
+      ],
+      [
+        "基金代销机构",
+        "基金管理人"
+      ],
+      [
+        "Fund Custody Account",
+        "Public Fund Distribution Business"
+      ],
+      [
+        "Pan某某",
+        "Taihang Financial Consulting Jin Nan Branch"
+      ],
+      [
+        "Shengtong Group",
+        "Shengtong Steel Cord Co., Ltd."
+      ],
+      [
+        "名单筛查",
+        "私募基金管理人"
+      ],
+      [
+        "Science and Technology Innovation Board (STAR Market)",
+        "Shanghai Sierxin Technology"
+      ],
+      [
+        "NEEQ",
+        "Underwriting Syndicate"
+      ],
+      [
+        "Customer Due Diligence",
+        "Securities Lending"
+      ],
+      [
+        "Shanghai Sierxin Technology",
+        "Xiong Shikun"
+      ],
+      [
+        "基金管理公司",
+        "证券公司"
+      ],
+      [
+        "挂牌公司",
+        "证券交易所"
+      ],
+      [
+        "(Prospective) Listed Company",
+        "Securities Company"
+      ],
+      [
+        "易所试",
+        "速递易"
+      ],
+      [
+        "基金管理人",
+        "私募基金服务机构"
+      ],
+      [
+        "Buyer",
+        "Financial Advisor"
+      ],
+      [
+        "上市申请",
+        "证券公司"
+      ],
+      [
+        "Stock Exchange",
+        "Stock Lending and Borrowing Business"
+      ],
+      [
+        "做市商",
+        "证券公司"
+      ],
+      [
+        "中国证券监督管理委员会",
+        "区域性股权市场"
+      ],
+      [
+        "Huihai Hongrong",
+        "Jingtuo Shares"
+      ],
+      [
+        "汤某红",
+        "蒋君"
+      ],
+      [
+        "保荐协议",
+        "证券公司"
+      ],
+      [
+        "Li Accounting Firm",
+        "Yang Moujie"
+      ],
+      [
+        "Taihang Financial Consulting Company",
+        "Tairuoborui Investment Management Company"
+      ],
+      [
+        "Blacklist",
+        "Securities Company"
+      ],
+      [
+        "SWLX Fund Management Co., Ltd.",
+        "Xu Yuanhang"
+      ],
+      [
+        "Investment Manager",
+        "Off-Exchange Trading"
+      ],
+      [
+        "China Securities Regulatory Commission",
+        "Public Fund Product"
+      ],
+      [
+        "Issuer",
+        "Stock Market"
+      ],
+      [
+        "保荐机构",
+        "证券交易所"
+      ],
+      [
+        "Fund Sales Settlement Special Account",
+        "Public Fund Distribution Business"
+      ],
+      [
+        "Ipo",
+        "银行收付款账户"
+      ],
+      [
+        "发行人",
+        "洗钱风险点2"
+      ],
+      [
+        "上市公司",
+        "控股股东"
+      ],
+      [
+        "1号基金",
+        "王泽龙"
+      ],
+      [
+        "中某中基集团",
+        "岑某"
+      ],
+      [
+        "中核钛白员工持股计划",
+        "王泽龙"
+      ],
+      [
+        "(Prospective) Listed Company",
+        "National Equities Exchange and Quotations (NEEQ)"
+      ],
+      [
+        "成长企业融资业务",
+        "投资者"
+      ],
+      [
+        "Client Due Diligence",
+        "Securities Company"
+      ],
+      [
+        "Investor",
+        "Market Maker"
+      ],
+      [
+        "Custodian Institution",
+        "Fund Shares"
+      ],
+      [
+        "Portfolio Monitoring and Management",
+        "Securities Company"
+      ],
+      [
+        "Agency Promotion Agreement",
+        "Securities Company (Asset Manager)"
+      ],
+      [
+        "发行人",
+        "洗钱风险点1"
+      ],
+      [
+        "Collective Asset Management Business",
+        "Special Capital Account for Collective Asset Management Plan"
+      ],
+      [
+        "发行人",
+        "财务报表或审计报告"
+      ],
+      [
+        "Custodian Institution",
+        "Private Equity Fund"
+      ],
+      [
+        "Huang Xin",
+        "Tang Mouhong"
+      ],
+      [
+        "银行间债券账户",
+        "银行间市场清算所股份有限公司"
+      ],
+      [
+        "Ongoing Supervision",
+        "Securities Company"
+      ],
+      [
+        "Asset Management Plan",
+        "融出方"
+      ],
+      [
+        "特等风险客户",
+        "证券公司"
+      ],
+      [
+        "Shengtong Group",
+        "Shengtong Optical Materials Technology Co., Ltd."
+      ],
+      [
+        "承销商",
+        "投资者"
+      ],
+      [
+        "Securities Company (Market Maker)",
+        "Trading Hours"
+      ],
+      [
+        "Audit Firm",
+        "Target Company"
+      ],
+      [
+        "公募基金代销客户",
+        "洗钱风险点3"
+      ],
+      [
+        "Pricing and Allocation",
+        "Underwriting Syndicate"
+      ],
+      [
+        "Anti-Money Laundering Blacklist",
+        "Client Due Diligence"
+      ],
+      [
+        "Insider Trading",
+        "Securities Company"
+      ],
+      [
+        "Bond Issuer",
+        "Securities Company"
+      ],
+      [
+        "易所试",
+        "王磊"
+      ],
+      [
+        "Fiberboard 1910 Contract",
+        "Jiang Jun"
+      ],
+      [
+        "成长企业融资业务",
+        "新三板"
+      ],
+      [
+        "资产管理业务",
+        "集合计划"
+      ],
+      [
+        "洗钱风险穿透分析",
+        "相关洗钱或上游犯罪案例"
+      ],
+      [
+        "区域性股权市场",
+        "法律顾问"
+      ],
+      [
+        "Funding Bank",
+        "Securities Company"
+      ],
+      [
+        "Public Fund Distribution Business",
+        "TA Account"
+      ],
+      [
+        "上市公司",
+        "承销协议"
+      ],
+      [
+        "三爱富",
+        "东方证券"
+      ],
+      [
+        "Credit Securities Account",
+        "Securities Company"
+      ],
+      [
+        "募集资金",
+        "发行人"
+      ],
+      [
+        "区域性股权市场",
+        "申请挂牌公司"
+      ],
+      [
+        "Investor",
+        "Private Equity Fund"
+      ],
+      [
+        "Jiangsu Tech Company",
+        "Real Company"
+      ],
+      [
+        "Fund Manager",
+        "Investor"
+      ],
+      [
+        "Profit Prediction Compensation Agreement",
+        "智诚光学"
+      ],
+      [
+        "区域性股权市场",
+        "地方金融监管部门"
+      ],
+      [
+        "Pang Moumou",
+        "Tiborui Investment Management Company"
+      ],
+      [
+        "Insider Information",
+        "Sudden Investment"
+      ],
+      [
+        "其他承销商资金交收账户",
+        "成长企业融资业务"
+      ],
+      [
+        "企业",
+        "验资账户"
+      ],
+      [
+        "Shengtong Group",
+        "Zhongtianyun Accounting Firm"
+      ],
+      [
+        "中国证券监督管理委员会",
+        "证券发行上市保荐业务管理办法"
+      ],
+      [
+        "Market Maker",
+        "Proprietary Settlement Account"
+      ],
+      [
+        "中证报价",
+        "证券公司"
+      ],
+      [
+        "Third Friday Management, LLC",
+        "Third Friday Total Return Fund, L.P."
+      ],
+      [
+        "做市商",
+        "股份转让系统"
+      ],
+      [
+        "Financial Statements",
+        "Independent Financial Advisor"
+      ],
+      [
+        "发布证券研究报告业务",
+        "证券估值"
+      ],
+      [
+        "Horizon Private Equity, III, LLC",
+        "Southport Capital"
+      ],
+      [
+        "Client",
+        "Money Laundering"
+      ],
+      [
+        "收益凭证",
+        "证券公司"
+      ],
+      [
+        "基金资产",
+        "存管银行"
+      ],
+      [
+        "CSRC",
+        "Registration Approval"
+      ],
+      [
+        "洗钱风险点4",
+        "非交易过户"
+      ],
+      [
+        "股票质押业务",
+        "证券公司"
+      ],
+      [
+        "工商局企业信用信息公示系统",
+        "投资者"
+      ],
+      [
+        "Bond Underwriting",
+        "Bribery"
+      ],
+      [
+        "Quality Control and Internal Review",
+        "Securities Company"
+      ],
+      [
+        "Vanilla Options",
+        "Wang Zelong"
+      ],
+      [
+        "China Securities Regulatory Commission (CSRC)",
+        "Huaan Securities"
+      ],
+      [
+        "Exchange",
+        "Market Maker"
+      ],
+      [
+        "发行人",
+        "首次公开发行股票注册管理办法"
+      ],
+      [
+        "广发证券",
+        "美尚生态"
+      ],
+      [
+        "Exchange Traded Fund (Etf)",
+        "Liquidity Provider"
+      ],
+      [
+        "基金管理公司",
+        "托管机构"
+      ],
+      [
+        "Huaan Securities",
+        "Product Service Provider"
+      ],
+      [
+        "募集资金账户",
+        "成长企业融资业务"
+      ],
+      [
+        "False Declaration",
+        "Securities Company"
+      ],
+      [
+        "上市公司控股股东",
+        "公司"
+      ],
+      [
+        "交易对手",
+        "客户销售金融产品或提供金融服务的第三方"
+      ],
+      [
+        "China Securities Depository and Clearing Corporation Limited",
+        "Securities Company"
+      ],
+      [
+        "会计师事务所",
+        "申请挂牌公司"
+      ],
+      [
+        "二级市场",
+        "发行人"
+      ],
+      [
+        "发行人",
+        "尽职调查"
+      ],
+      [
+        "期货公司",
+        "证券公司"
+      ],
+      [
+        "玖盈资本管理(深圳)有限责任公司",
+        "陈某"
+      ],
+      [
+        "做市商",
+        "全国中小企业股份转让系统"
+      ],
+      [
+        "NEEQ",
+        "Sponsoring Broker"
+      ],
+      [
+        "徐卫",
+        "汤某红"
+      ],
+      [
+        "Dedicated Deposit Account for Own Funds",
+        "Securities Company"
+      ],
+      [
+        "Fundraising Accounts",
+        "Verification Account"
+      ],
+      [
+        "Arbitrage",
+        "Transaction Counterparty"
+      ],
+      [
+        "上市公司",
+        "股份代持"
+      ],
+      [
+        "证券公司",
+        "高风险客户"
+      ],
+      [
+        "Private Equity Fund",
+        "Securities Company"
+      ],
+      [
+        "Ipo",
+        "资金交收账户"
+      ],
+      [
+        "期货交易所",
+        "期货公司"
+      ],
+      [
+        "Financial Product Distribution Business",
+        "Public Fund Distribution Business"
+      ],
+      [
+        "洗钱风险点4",
+        "集合计划"
+      ],
+      [
+        "Ipo",
+        "中国证券登记结算有限责任公司的网下发行专户"
+      ],
+      [
+        "Investor Screening",
+        "Securities Industry Violations"
+      ],
+      [
+        "Independent Financial Advisor",
+        "Integration Plan"
+      ],
+      [
+        "Huang Xin",
+        "Xu Wei"
+      ],
+      [
+        "CSDC",
+        "Issuer"
+      ],
+      [
+        "恒逸石化",
+        "邱某林"
+      ],
+      [
+        "Investor",
+        "Investor Open-Ended Fund Account"
+      ],
+      [
+        "何某水",
+        "恒逸集团"
+      ],
+      [
+        "Mergers and Acquisitions (M&A) Business",
+        "Securities Company (Financial Advisor)"
+      ],
+      [
+        "发布证券研究报告业务",
+        "固定付费模式"
+      ],
+      [
+        "Investors",
+        "Subscription and Payment"
+      ],
+      [
+        "Fund Manager",
+        "Third-Party Service Provider"
+      ],
+      [
+        "Securities Company",
+        "Watchlist Screening"
+      ],
+      [
+        "第三方发布平台",
+        "证券公司(研究所)"
+      ],
+      [
+        "Keith Springe",
+        "美国证券交易委员会"
+      ],
+      [
+        "上市公司",
+        "托管账户"
+      ],
+      [
+        "信息/资金链路梳理",
+        "相关洗钱或上游犯罪案例"
+      ],
+      [
+        "Market Making Trading Stage",
+        "New Third Board Market"
+      ],
+      [
+        "Client Risk Rating",
+        "Securities Company"
+      ],
+      [
+        "发行人",
+        "证券公司"
+      ],
+      [
+        "CSRC",
+        "Stock Exchange"
+      ],
+      [
+        "Futures Company",
+        "Money Laundering"
+      ],
+      [
+        "CITIC Securities - Huili Family Stock Pledge Repurchase",
+        "Yang"
+      ],
+      [
+        "张某某",
+        "证券公司"
+      ],
+      [
+        "其他承销商",
+        "募集资金账户"
+      ],
+      [
+        "基金中央数据交换平台账户",
+        "基金份额"
+      ],
+      [
+        "Fangzheng Securities",
+        "Jingtuo Shares"
+      ],
+      [
+        "Securities Company",
+        "Settlement Reserve Account for Custodian"
+      ],
+      [
+        "Securities Company",
+        "Transferring Securities"
+      ],
+      [
+        "Money Laundering",
+        "Shanghai Sierxin Technology"
+      ],
+      [
+        "Asset Management Plan",
+        "Investor (Asset Entruster)"
+      ],
+      [
+        "Potential Listed Company",
+        "Pre-Disclosure"
+      ],
+      [
+        "Fund Manager",
+        "Fund Operation Outsourcing Business"
+      ],
+      [
+        "企业",
+        "证券公司"
+      ],
+      [
+        "收益凭证",
+        "证券公司柜台市场"
+      ],
+      [
+        "Huang Xueliang",
+        "Shanghai Sierxin Technology"
+      ],
+      [
+        "Private Securities Investment",
+        "Venture Capital Fund"
+      ],
+      [
+        "其他承销商",
+        "验资账户"
+      ],
+      [
+        "CsRC",
+        "Securities Company"
+      ],
+      [
+        "Custodian Bank (Asset Custodian)",
+        "Securities Company (Asset Manager)"
+      ],
+      [
+        "Pan某某",
+        "Taihang Financial Consulting Bao Di Branch"
+      ],
+      [
+        "Fiberboard 1910 Contract",
+        "Huang Xin"
+      ],
+      [
+        "Central Depository and Clearing Corporation",
+        "Securities Company"
+      ],
+      [
+        "债券发行",
+        "发行人"
+      ],
+      [
+        "发行人",
+        "证券交易所"
+      ],
+      [
+        "Audit Firm",
+        "Regulatory Compliance"
+      ],
+      [
+        "其他承销商",
+        "结算账户"
+      ],
+      [
+        "China Securities Depository and Clearing Corporation",
+        "NEEQ"
+      ],
+      [
+        "Collective Asset Management Business",
+        "Settlement Account for Collective Asset Management Plan Funds"
+      ],
+      [
+        "Ipo",
+        "证券账户"
+      ],
+      [
+        "Jin Mou1",
+        "Xu Yuanhang"
+      ],
+      [
+        "Legal Opinion",
+        "Securities Company"
+      ],
+      [
+        "洗钱风险穿透分析",
+        "管控措施设计和可行性分析"
+      ],
+      [
+        "Insider Information",
+        "Project Team Members"
+      ],
+      [
+        "Inter-Institutional Private Placement Product Quotation and Service System Account",
+        "Investor"
+      ],
+      [
+        "公募基金",
+        "证券公司(研究所)"
+      ],
+      [
+        "Aig",
+        "False Financial Disclosure"
+      ],
+      [
+        "洗钱风险点7",
+        "资产管理计划投资经理"
+      ],
+      [
+        "Fund Operation Outsourcing Business",
+        "Securities Company"
+      ],
+      [
+        "保荐协议",
+        "保荐机构"
+      ],
+      [
+        "Wen Mouyi",
+        "Xin Company"
+      ],
+      [
+        "中信中证",
+        "海通证券"
+      ],
+      [
+        "Jiangsu Tech Company",
+        "Zhongshan Securities"
+      ],
+      [
+        "Custodian Institution",
+        "Issuer"
+      ],
+      [
+        "东方证券",
+        "齐蕾"
+      ],
+      [
+        "Bell Rock Capital, LLC",
+        "M. Cassandra Toroian"
+      ],
+      [
+        "深圳证券交易所",
+        "证券公司"
+      ],
+      [
+        "融出方",
+        "融出方Funds Settlement Account"
+      ],
+      [
+        "Michael Mooney",
+        "美国证券交易委员会"
+      ],
+      [
+        "Shanghai Sierxin Technology",
+        "Toshio Nakama"
+      ],
+      [
+        "Bond Issuer",
+        "Central Clearing Company"
+      ],
+      [
+        "Tujian Dong",
+        "Yang"
+      ],
+      [
+        "Exchange",
+        "Regulatory Authority"
+      ],
+      [
+        "投资者",
+        "资金账户"
+      ],
+      [
+        "Investment Manager",
+        "Market Manipulation"
+      ],
+      [
+        "Audit Firm",
+        "Listed Company"
+      ],
+      [
+        "反洗钱信息报告员",
+        "反洗钱及合规监测中心"
+      ],
+      [
+        "Funding Accounts",
+        "Securities Financial Corporation"
+      ],
+      [
+        "Private Fund",
+        "Securities Company"
+      ],
+      [
+        "区域性股权市场",
+        "区域性股权运营机构"
+      ],
+      [
+        "Money Laundering",
+        "Public Mutual Funds"
+      ],
+      [
+        "中国证券登记结算有限责任公司",
+        "私募基金"
+      ],
+      [
+        "成长企业融资业务",
+        "结算账户"
+      ],
+      [
+        "Syed Arham Arbab",
+        "U.S. Securities and Exchange Commission (SEC)"
+      ],
+      [
+        "Industrial Securities",
+        "Jingtuo Shares"
+      ],
+      [
+        "Horizon",
+        "Penny Flippen"
+      ],
+      [
+        "标的证券",
+        "融入方"
+      ],
+      [
+        "全国中小企业股份转让系统",
+        "发行人"
+      ],
+      [
+        "中某中基集团",
+        "孟某"
+      ],
+      [
+        "Changan Ning - Xiniuer Stock Pledge Repurchase",
+        "Yang"
+      ],
+      [
+        "Non-Brokerage Business",
+        "Securities Industry"
+      ],
+      [
+        "China Securities Regulatory Commission Anhui Bureau",
+        "Huaan Securities"
+      ],
+      [
+        "Huihai Hongrong",
+        "Jintuo Shares"
+      ],
+      [
+        "Bian Mou",
+        "Zhongtong Machinery Manufacturing Co., Ltd."
+      ],
+      [
+        "证券公司",
+        "资产证券化"
+      ],
+      [
+        "Insider Trading",
+        "Transaction Counterparty"
+      ],
+      [
+        "Taixing Financial Products",
+        "Tiborui Investment Management Company"
+      ],
+      [
+        "High-Risk Client Management",
+        "Securities Company"
+      ],
+      [
+        "IPO Allocation",
+        "Issuer"
+      ],
+      [
+        "中国证监会",
+        "收益凭证"
+      ],
+      [
+        "Huaan Securities",
+        "People's Bank of China Anhui Branch"
+      ],
+      [
+        "Financial Disclosure",
+        "Potential Listed Company"
+      ],
+      [
+        "上市公司",
+        "投资者"
+      ],
+      [
+        "证券经纪账户",
+        "资产管理计划"
+      ],
+      [
+        "区域性股权市场",
+        "投资者证券账户"
+      ],
+      [
+        "Fund Product Fund Account",
+        "Securities Company"
+      ],
+      [
+        "地方金融监管机构",
+        "证券公司"
+      ],
+      [
+        "融入方",
+        "资金"
+      ],
+      [
+        "Financial Fraud",
+        "Stock Exchange"
+      ],
+      [
+        "Securities Company",
+        "Shanghai Clearing House"
+      ],
+      [
+        "Chuangyi Company",
+        "Jiangsu Yashi Investment Group"
+      ],
+      [
+        "False Identity Information",
+        "Securities Company"
+      ],
+      [
+        "Shanghai Equity Custody And Trading Center Q Board",
+        "Xlxm"
+      ],
+      [
+        "Bribery in Bond Underwriting",
+        "Securities Company (Financial Advisor)"
+      ],
+      [
+        "中信中证",
+        "王泽龙"
+      ],
+      [
+        "Jintuo Shares",
+        "Junru Assets"
+      ],
+      [
+        "互联网+人工智能医疗创新运营服务项目",
+        "思创医惠"
+      ],
+      [
+        "定向资产管理计划专用证券账户",
+        "证券公司"
+      ],
+      [
+        "洗钱风险点5",
+        "资产管理计划"
+      ],
+      [
+        "公司债",
+        "证券公司"
+      ],
+      [
+        "Futures Fund Account",
+        "Securities Company"
+      ],
+      [
+        "反洗钱黑名单",
+        "发行人"
+      ],
+      [
+        "Horizon Private Equity, III, LLC",
+        "John Woods"
+      ],
+      [
+        "Collective Asset Management Business",
+        "Special Account for Collective Asset Management Plan Fundraising and Settlement"
+      ],
+      [
+        "400多名投资者",
+        "Horizon"
+      ],
+      [
+        "Floating Income Pricing",
+        "Securities Company"
+      ],
+      [
+        "Springer Financial Advisors (SFA)",
+        "美国证券交易委员会"
+      ],
+      [
+        "王楼生态园",
+        "韩学臣"
+      ],
+      [
+        "洗钱风险点9",
+        "资产管理计划投资经理"
+      ],
+      [
+        "江苏奔牛港务集团有限公司",
+        "黄鑫"
+      ],
+      [
+        "劲拓股份",
+        "君如资产"
+      ],
+      [
+        "Ipo",
+        "验资账户"
+      ],
+      [
+        "发布证券研究报告业务",
+        "转移支付模式"
+      ],
+      [
+        "北京证券交易所",
+        "证券公司"
+      ],
+      [
+        "投资者",
+        "资产托管人"
+      ],
+      [
+        "方某某",
+        "白某某"
+      ],
+      [
+        "恒逸石化",
+        "恒逸集团"
+      ],
+      [
+        "Fund Share Registration",
+        "Fund Share Registration Institution"
+      ],
+      [
+        "推荐挂牌服务协议",
+        "推荐机构"
+      ],
+      [
+        "北京股权交易中心",
+        "北登中心"
+      ],
+      [
+        "(Prospective) Listed Company",
+        "Accounting Firm"
+      ],
+      [
+        "反洗钱信息报告员",
+        "营销管理部"
+      ],
+      [
+        "Liu Wei",
+        "Zhejiang Business Fund Management Co., Ltd."
+      ],
+      [
+        "企业",
+        "受托管理人"
+      ],
+      [
+        "Issuer (Prospective Listed Company)",
+        "Legal Advisor"
+      ],
+      [
+        "National Equities Exchange and Quotations System",
+        "Regulatory Authority"
+      ],
+      [
+        "上市公司",
+        "会计师事务所"
+      ],
+      [
+        "君如资产",
+        "陈某"
+      ],
+      [
+        "Securities Company",
+        "Single Asset Management Product Custody Account"
+      ],
+      [
+        "投资者",
+        "陕西XLXM有限责任公司"
+      ],
+      [
+        "Fund Manager",
+        "Securities Company"
+      ],
+      [
+        "Keith Springe",
+        "Springer Investment Management, Inc."
+      ],
+      [
+        "PBOC",
+        "Securities Company"
+      ],
+      [
+        "Fund Manager",
+        "Registration Agent"
+      ],
+      [
+        "上市公司控股股东",
+        "可疑交易监测"
+      ],
+      [
+        "Securities Company",
+        "Unreasonable Transaction Prices"
+      ],
+      [
+        "Jiangsu Tech Company",
+        "Shenzhen Yuan Investment Development Company"
+      ],
+      [
+        "主承销商",
+        "其他承销商"
+      ],
+      [
+        "上海证券交易所",
+        "证券公司"
+      ],
+      [
+        "Fund Sales Payment Institution",
+        "Fund Sales Settlement and Transfer Services"
+      ],
+      [
+        "Securities Company",
+        "Securities Settlement Account"
+      ],
+      [
+        "Custodian Institution",
+        "Securities Company"
+      ],
+      [
+        "Credit Funds Account",
+        "Securities Company"
+      ],
+      [
+        "北京某科技公司",
+        "方某某"
+      ],
+      [
+        "Insider Trading",
+        "Investment Manager"
+      ],
+      [
+        "Investment Manager",
+        "On-Exchange Trading"
+      ],
+      [
+        "企业债",
+        "证券公司"
+      ],
+      [
+        "Negative News Screening",
+        "Securities Company"
+      ],
+      [
+        "公司",
+        "突击入股"
+      ],
+      [
+        "Fund Manager",
+        "Private Equity Funds"
+      ],
+      [
+        "融入方",
+        "融出方"
+      ],
+      [
+        "刘汉",
+        "汉龙实业发展公司"
+      ],
+      [
+        "Financing Arrangement",
+        "Independent Financial Advisor"
+      ],
+      [
+        "洗钱风险点2",
+        "集合计划"
+      ],
+      [
+        "反洗钱名单",
+        "证券公司"
+      ],
+      [
+        "Fund Management Company",
+        "Securities Company"
+      ],
+      [
+        "Financial Fraud",
+        "Shanghai Sierxin Technology"
+      ],
+      [
+        "China Securities Depository and Clearing Corporation Limited",
+        "Settlement Bank"
+      ],
+      [
+        "基金资产",
+        "托管账户"
+      ],
+      [
+        "Securities Company",
+        "Special Account for Custody Funds"
+      ],
+      [
+        "做市商",
+        "新三板市场"
+      ],
+      [
+        "Direct Sales Account",
+        "Investor"
+      ],
+      [
+        "IPO配售",
+        "证券公司"
+      ],
+      [
+        "Fraudulent Listing",
+        "Jinya Technology"
+      ],
+      [
+        "Credit Fund Account",
+        "Custodian Bank"
+      ],
+      [
+        "Bond Issuance",
+        "Tokyo Electric Power Company (Tepco)"
+      ],
+      [
+        "Securities Company",
+        "中国结算"
+      ],
+      [
+        "Investor",
+        "Securities Company"
+      ],
+      [
+        "Electronic Bookkeeping Account and DVP Fund Account",
+        "Securities Company"
+      ],
+      [
+        "Asset Management Plan",
+        "Securities Company"
+      ],
+      [
+        "Securities Company",
+        "Securities Fund Account"
+      ],
+      [
+        "Money Laundering",
+        "Private Equity Funds"
+      ],
+      [
+        "Custodian Institution",
+        "Fund Settlement and Clearing"
+      ],
+      [
+        "保荐机构",
+        "公司"
+      ],
+      [
+        "上市公司",
+        "保荐协议"
+      ],
+      [
+        "CSRC",
+        "Legal Advisor"
+      ],
+      [
+        "Jinhong Group",
+        "Xu Yuanhang"
+      ],
+      [
+        "发行人",
+        "成长企业融资业务"
+      ],
+      [
+        "Custody Agreement",
+        "Securities Company"
+      ],
+      [
+        "Custodian Bank",
+        "Stock Lending and Borrowing Business"
+      ],
+      [
+        "中国证券投资基金业协会",
+        "外包机构"
+      ],
+      [
+        "Investor Securities Account",
+        "Market Maker"
+      ],
+      [
+        "Chuangyi Company",
+        "Huabei Securities"
+      ],
+      [
+        "Fund Manager",
+        "Illegal Fundraising and Financial Fraud"
+      ],
+      [
+        "Liu Wei",
+        "Synchronized Trading"
+      ],
+      [
+        "Cash Account",
+        "Public Fund Distribution Business"
+      ],
+      [
+        "Pan某某",
+        "Taihang Financial Consulting Bei Chen Branch"
+      ],
+      [
+        "Securities Company",
+        "Securities Registration and Settlement Institution"
+      ],
+      [
+        "Custodian Account",
+        "Investor Capital Account"
+      ],
+      [
+        "Client Due Diligence",
+        "Suspicious Transaction Monitoring"
+      ],
+      [
+        "Bribery",
+        "Ma Moujun"
+      ],
+      [
+        "Client Non-Guaranteed Funds Settlement Account",
+        "Securities Company"
+      ],
+      [
+        "证券公司",
+        "非金融企业债务融资工具"
+      ],
+      [
+        "Beijing Stock Exchange",
+        "Securities Company"
+      ],
+      [
+        "Customer Due Diligence",
+        "Securities Company"
+      ],
+      [
+        "托管机构",
+        "证券公司"
+      ],
+      [
+        "Fund Company",
+        "Securities Company"
+      ],
+      [
+        "Issuer",
+        "Securities Company (Lead Underwriter)"
+      ],
+      [
+        "上市公司",
+        "保荐机构(主承销商)"
+      ],
+      [
+        "Equity Products",
+        "Securities Company"
+      ],
+      [
+        "Potential Listed Company",
+        "Special Fund Account"
+      ],
+      [
+        "深圳市前海小龙资产管理有限公司",
+        "陈某"
+      ],
+      [
+        "凌志软件",
+        "国泰君安证券"
+      ],
+      [
+        "Ipo",
+        "投资者的资金账户"
+      ],
+      [
+        "中国证监会",
+        "北京股权交易中心"
+      ],
+      [
+        "公司",
+        "募集资金投向异常"
+      ],
+      [
+        "(Prospective) Listed Company",
+        "Sponsor Institution"
+      ],
+      [
+        "Market Manipulation",
+        "Price Volatility"
+      ],
+      [
+        "STR机制",
+        "证券公司"
+      ],
+      [
+        "内幕交易",
+        "员工涉及内幕交易"
+      ],
+      [
+        "HHLR",
+        "高瓴资本"
+      ],
+      [
+        "Investors",
+        "Xlxm"
+      ],
+      [
+        "Pan某某",
+        "Taihang Financial Consulting Wu Qing Branch"
+      ],
+      [
+        "Chen Mou",
+        "Shanghai Municipal Public Security Bureau Economic Investigation Corps"
+      ],
+      [
+        "Broker-Dealers",
+        "Syed Arham Arbab"
+      ],
+      [
+        "Customer Demand Analysis and Evaluation",
+        "Securities Investment Advisory Business"
+      ],
+      [
+        "Business Agreement",
+        "Lending Party"
+      ],
+      [
+        "Private Customized Product",
+        "Securities Company"
+      ],
+      [
+        "Michael Mooney",
+        "Southport Capital"
+      ],
+      [
+        "Information/Funding Flow",
+        "Listed Company"
+      ],
+      [
+        "Securities Company",
+        "Xlxm"
+      ],
+      [
+        "中国证券登记结算有限公司",
+        "北登中心"
+      ],
+      [
+        "A-Shares",
+        "融出方"
+      ],
+      [
+        "内幕交易",
+        "管控措施"
+      ],
+      [
+        "区域性股权市场",
+        "投资银行"
+      ],
+      [
+        "Asset Management Plan",
+        "Stock Pledge Repurchase Business"
+      ],
+      [
+        "客户尽职调查",
+        "集合计划"
+      ],
+      [
+        "Investors",
+        "Sudden Investment"
+      ],
+      [
+        "Insider Trading",
+        "证券公司"
+      ],
+      [
+        "Customer Business Relationship",
+        "Investor Screening"
+      ],
+      [
+        "韩学臣",
+        "飞宇化工"
+      ],
+      [
+        "成长企业融资业务",
+        "投资者资金账户"
+      ],
+      [
+        "信息/资金链路梳理",
+        "华安证券"
+      ],
+      [
+        "Jiangsu Ming Tech Company",
+        "Jiangsu Tech Company"
+      ],
+      [
+        "Settlement Bank",
+        "Settlement and Transfer"
+      ],
+      [
+        "Market Research and Analysis",
+        "Securities Company"
+      ],
+      [
+        "粮某集团",
+        "统某富邦"
+      ],
+      [
+        "Clearing Institution",
+        "Exchange"
+      ],
+      [
+        "中信证券",
+        "王泽龙"
+      ],
+      [
+        "Fund Industry Association",
+        "Outsourcing Institution"
+      ],
+      [
+        "Investor",
+        "Registration and Settlement Account"
+      ],
+      [
+        "投资者",
+        "黑名单"
+      ],
+      [
+        "股票质押业务",
+        "融入方"
+      ],
+      [
+        "Listed Company",
+        "Regulatory Authority (China Securities Regulatory Commission)"
+      ],
+      [
+        "Fund Sales Institution",
+        "Securities Company"
+      ],
+      [
+        "Fraudulent Listing",
+        "Yinlong New Energy"
+      ],
+      [
+        "Regulatory Authority (China Securities Regulatory Commission)",
+        "Stock Exchange"
+      ],
+      [
+        "中核钛白",
+        "洪浩炜"
+      ],
+      [
+        "乔卫平",
+        "齐蕾"
+      ],
+      [
+        "募集资金投向异常",
+        "发行人"
+      ],
+      [
+        "中国结算",
+        "交易所"
+      ],
+      [
+        "Distributor's Account",
+        "Securities Company"
+      ],
+      [
+        "Bond Issuance",
+        "Money Laundering"
+      ],
+      [
+        "康隆达",
+        "江西天成锂业有限公司"
+      ],
+      [
+        "Investor",
+        "Securities Finance Company"
+      ],
+      [
+        "受赠与方/继承方",
+        "名单筛查"
+      ],
+      [
+        "Jiangsu Tech Company",
+        "Yang Ye"
+      ],
+      [
+        "网下投资者",
+        "网下配售"
+      ],
+      [
+        "投资顾问协议",
+        "证券公司"
+      ],
+      [
+        "发行人",
+        "第三方代理持有债券"
+      ],
+      [
+        "Asset Management Plan",
+        "Securities Company (Asset Manager)"
+      ]
+    ],
+    "count": 1191,
+    "create_time": 1780068973,
+    "update_time": 1780068973,
+    "_id": "doc-12f2c2bdbec1de90bc2aa9059cb465ad"
+  }
+}
