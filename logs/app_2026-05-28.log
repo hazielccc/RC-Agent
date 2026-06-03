@@ -1,0 +1,207 @@
+2026-05-28 00:17:21 | INFO     | rag_anything_service.index_file:185 | RAG-Anything 文档索引完成: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/my_knowledge_document/1.5证券业精细化洗钱风险管控体系建设研究报告.docx, doc_id=doc-12f2c2bdbec1de90bc2aa9059cb465ad
+2026-05-28 00:17:21 | INFO     | vector_index_service.aindex_single_file:171 | 文件索引完成: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/my_knowledge_document/1.5证券业精细化洗钱风险管控体系建设研究报告.docx, RAG-Anything doc_id=doc-12f2c2bdbec1de90bc2aa9059cb465ad
+2026-05-28 06:36:24 | INFO     | file.index_file:159 | 开始索引本地文件: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/my_knowledge_document/1.5证券业精细化洗钱风险管控体系建设研究报告.docx
+2026-05-28 06:36:24 | INFO     | vector_index_service.aindex_single_file:167 | 开始索引文件: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/my_knowledge_document/1.5证券业精细化洗钱风险管控体系建设研究报告.docx
+2026-05-28 06:36:24 | INFO     | rag_anything_service.index_file:122 | 使用 Office 文本解析，避免 MinerU/PDF 解析占用过高内存: 1.5证券业精细化洗钱风险管控体系建设研究报告.docx
+2026-05-28 06:36:24 | ERROR    | vector_index_service.aindex_single_file:175 | 索引文件失败: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/my_knowledge_document/1.5证券业精细化洗钱风险管控体系建设研究报告.docx, 错误: [Errno 2] No such file or directory: 'rag_anything_storage/kv_store_doc_status.json'
+2026-05-28 06:36:24 | ERROR    | file.index_file:177 | 索引本地文件失败: 索引文件失败: [Errno 2] No such file or directory: 'rag_anything_storage/kv_store_doc_status.json'
+2026-05-28 06:38:24 | INFO     | file.index_file:159 | 开始索引本地文件: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/my_knowledge_document/1.5证券业精细化洗钱风险管控体系建设研究报告.docx
+2026-05-28 06:38:24 | INFO     | vector_index_service.aindex_single_file:167 | 开始索引文件: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/my_knowledge_document/1.5证券业精细化洗钱风险管控体系建设研究报告.docx
+2026-05-28 06:38:24 | INFO     | rag_anything_service.index_file:122 | 使用 Office 文本解析，避免 MinerU/PDF 解析占用过高内存: 1.5证券业精细化洗钱风险管控体系建设研究报告.docx
+2026-05-28 06:39:22 | INFO     | rag_anything_service.index_file:185 | RAG-Anything 文档索引完成: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/my_knowledge_document/1.5证券业精细化洗钱风险管控体系建设研究报告.docx, doc_id=doc-12f2c2bdbec1de90bc2aa9059cb465ad
+2026-05-28 06:39:22 | INFO     | vector_index_service.aindex_single_file:171 | 文件索引完成: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/my_knowledge_document/1.5证券业精细化洗钱风险管控体系建设研究报告.docx, RAG-Anything doc_id=doc-12f2c2bdbec1de90bc2aa9059cb465ad
+2026-05-28 06:53:58 | INFO     | rag_agent_service.__init__:127 | RAG Agent 服务初始化完成 (ChatQwen), model=qwen-max, vision_model=qwen3.6-plus, streaming=True
+2026-05-28 06:53:58 | INFO     | vector_index_service.__init__:72 | RAG-Anything 索引服务初始化完成
+2026-05-28 06:53:58 | INFO     | aiops_service._build_graph:31 | 构建工作流图...
+2026-05-28 06:53:58 | INFO     | aiops_service._build_graph:78 | 工作流图构建完成
+2026-05-28 06:53:58 | INFO     | aiops_service.__init__:27 | Plan-Execute-Replan Service 初始化完成
+2026-05-28 06:53:58 | INFO     | main.lifespan:23 | ============================================================
+2026-05-28 06:53:58 | INFO     | main.lifespan:24 | 🚀 SuperBizAgent v1.0.0 启动中...
+2026-05-28 06:53:58 | INFO     | main.lifespan:25 | 📝 环境: 开发
+2026-05-28 06:53:58 | INFO     | main.lifespan:26 | 🌐 监听地址: http://0.0.0.0:9900
+2026-05-28 06:53:58 | INFO     | main.lifespan:27 | 📚 API 文档: http://0.0.0.0:9900/docs
+2026-05-28 06:53:58 | INFO     | main.lifespan:29 | 📚 启动阶段不更新 RAG 知识库；仅 make upload 会触发知识库写入
+2026-05-28 06:53:58 | INFO     | main.lifespan:31 | ============================================================
+2026-05-28 06:55:56 | INFO     | chat.chat:123 | [会话 session_03t7xc3fb_1779922527761] 收到快速对话请求: 通过对证券业精细化洗钱风险管控体系建设的研究，不仅可以推动证券行业在非经纪业务领域建立更为科学和系统的洗钱风险管控机制，使得证券业的洗钱风险管理更为全面，有助于提升整个金融体系的安全性和稳定性。本次研究的意义具体体现在以下几个方面：, 附件数: 0
+2026-05-28 06:55:56 | INFO     | mcp_client.get_mcp_client:119 | 初始化全局 MCP 客户端...
+2026-05-28 06:55:56 | INFO     | mcp_client.get_mcp_client:125 | 全局 MCP 客户端初始化完成
+2026-05-28 06:55:56 | INFO     | rag_agent_service._initialize_agent:178 | 成功加载 7 个 MCP 工具
+2026-05-28 06:55:56 | INFO     | rag_agent_service._initialize_agent:202 | 可用工具列表: retrieve_knowledge, get_current_time, get_current_timestamp, get_region_code_by_name, get_topic_info_by_name, search_topic_by_service_name, search_log, query_cpu_metrics, query_memory_metrics
+2026-05-28 06:55:56 | INFO     | rag_agent_service.query:254 | [会话 session_03t7xc3fb_1779922527761] RAG Agent 收到查询（非流式）: 通过对证券业精细化洗钱风险管控体系建设的研究，不仅可以推动证券行业在非经纪业务领域建立更为科学和系统的洗钱风险管控机制，使得证券业的洗钱风险管理更为全面，有助于提升整个金融体系的安全性和稳定性。本次研究的意义具体体现在以下几个方面：
+2026-05-28 06:56:08 | INFO     | rag_agent_service.query:290 | [会话 session_03t7xc3fb_1779922527761] RAG Agent 查询完成（非流式）
+2026-05-28 06:56:08 | INFO     | chat.chat:146 | [会话 session_03t7xc3fb_1779922527761] 快速对话完成
+2026-05-28 13:20:43 | INFO     | file.index_file:159 | 开始索引本地文件: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/my_knowledge_document/1.5证券业精细化洗钱风险管控体系建设研究报告.docx
+2026-05-28 13:20:43 | INFO     | vector_index_service.aindex_single_file:167 | 开始索引文件: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/my_knowledge_document/1.5证券业精细化洗钱风险管控体系建设研究报告.docx
+2026-05-28 13:20:52 | INFO     | rag_anything_service.ensure_ready:92 | RAG-Anything 初始化完成: working_dir=rag_anything_storage, query_mode=hybrid
+2026-05-28 13:20:52 | INFO     | rag_anything_service.index_file:122 | 使用 Office 文本解析，避免 MinerU/PDF 解析占用过高内存: 1.5证券业精细化洗钱风险管控体系建设研究报告.docx
+2026-05-28 13:48:34 | INFO     | file.index_file:159 | 开始索引本地文件: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/cpu_high_usage.md
+2026-05-28 13:48:34 | INFO     | vector_index_service.aindex_single_file:167 | 开始索引文件: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/cpu_high_usage.md
+2026-05-28 13:48:34 | INFO     | rag_anything_service.index_file:185 | RAG-Anything 文档索引完成: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/cpu_high_usage.md, doc_id=doc-449bb9bd70654a9b0cbb68f4dea435cc
+2026-05-28 13:48:34 | INFO     | vector_index_service.aindex_single_file:171 | 文件索引完成: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/cpu_high_usage.md, RAG-Anything doc_id=doc-449bb9bd70654a9b0cbb68f4dea435cc
+2026-05-28 13:48:34 | INFO     | file.index_file:159 | 开始索引本地文件: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/disk_high_usage.md
+2026-05-28 13:48:34 | INFO     | vector_index_service.aindex_single_file:167 | 开始索引文件: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/disk_high_usage.md
+2026-05-28 13:48:34 | INFO     | rag_anything_service.index_file:185 | RAG-Anything 文档索引完成: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/disk_high_usage.md, doc_id=doc-fc482af95d5a9b089a34bd676eba9f2d
+2026-05-28 13:48:34 | INFO     | vector_index_service.aindex_single_file:171 | 文件索引完成: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/disk_high_usage.md, RAG-Anything doc_id=doc-fc482af95d5a9b089a34bd676eba9f2d
+2026-05-28 13:48:34 | INFO     | file.index_file:159 | 开始索引本地文件: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/memory_high_usage.md
+2026-05-28 13:48:34 | INFO     | vector_index_service.aindex_single_file:167 | 开始索引文件: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/memory_high_usage.md
+2026-05-28 13:48:34 | INFO     | rag_anything_service.index_file:185 | RAG-Anything 文档索引完成: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/memory_high_usage.md, doc_id=doc-38a761b40fcd0ac72cd0c0b516bd3738
+2026-05-28 13:48:34 | INFO     | vector_index_service.aindex_single_file:171 | 文件索引完成: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/memory_high_usage.md, RAG-Anything doc_id=doc-38a761b40fcd0ac72cd0c0b516bd3738
+2026-05-28 13:48:34 | INFO     | file.index_file:159 | 开始索引本地文件: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/service_unavailable.md
+2026-05-28 13:48:34 | INFO     | vector_index_service.aindex_single_file:167 | 开始索引文件: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/service_unavailable.md
+2026-05-28 13:48:34 | INFO     | rag_anything_service.index_file:185 | RAG-Anything 文档索引完成: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/service_unavailable.md, doc_id=doc-c0193764eea3af987ff640b97b22cbcb
+2026-05-28 13:48:34 | INFO     | vector_index_service.aindex_single_file:171 | 文件索引完成: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/service_unavailable.md, RAG-Anything doc_id=doc-c0193764eea3af987ff640b97b22cbcb
+2026-05-28 13:48:34 | INFO     | file.index_file:159 | 开始索引本地文件: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/slow_response.md
+2026-05-28 13:48:34 | INFO     | vector_index_service.aindex_single_file:167 | 开始索引文件: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/slow_response.md
+2026-05-28 13:48:34 | INFO     | rag_anything_service.index_file:185 | RAG-Anything 文档索引完成: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/slow_response.md, doc_id=doc-e1f0ffacb5e92819c49ae535383fbbbf
+2026-05-28 13:48:34 | INFO     | vector_index_service.aindex_single_file:171 | 文件索引完成: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/slow_response.md, RAG-Anything doc_id=doc-e1f0ffacb5e92819c49ae535383fbbbf
+2026-05-28 13:48:34 | INFO     | file.index_file:159 | 开始索引本地文件: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/my_knowledge_document/1.5证券业精细化洗钱风险管控体系建设研究报告.docx
+2026-05-28 13:48:34 | INFO     | vector_index_service.aindex_single_file:167 | 开始索引文件: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/my_knowledge_document/1.5证券业精细化洗钱风险管控体系建设研究报告.docx
+2026-05-28 13:48:34 | INFO     | rag_anything_service.index_file:122 | 使用 Office 文本解析，避免 MinerU/PDF 解析占用过高内存: 1.5证券业精细化洗钱风险管控体系建设研究报告.docx
+2026-05-28 13:48:34 | INFO     | rag_anything_service.index_file:185 | RAG-Anything 文档索引完成: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/my_knowledge_document/1.5证券业精细化洗钱风险管控体系建设研究报告.docx, doc_id=doc-12f2c2bdbec1de90bc2aa9059cb465ad
+2026-05-28 13:48:34 | INFO     | vector_index_service.aindex_single_file:171 | 文件索引完成: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/my_knowledge_document/1.5证券业精细化洗钱风险管控体系建设研究报告.docx, RAG-Anything doc_id=doc-12f2c2bdbec1de90bc2aa9059cb465ad
+2026-05-28 13:48:55 | INFO     | chat.chat:123 | [会话 session_a4zamsv88_1779947332607] 收到快速对话请求: 通过对证券业精细化洗钱风险管控体系建设的研究，不仅可以推动证券行业在非经纪业务领域建立更为科学和系统的洗钱风险管控机制，使得证券业的洗钱风险管理更为全面，有助于提升整个金融体系的安全性和稳定性。本次研究的意义具体体现在以下几个方面：, 附件数: 0
+2026-05-28 13:48:55 | INFO     | rag_agent_service.query:254 | [会话 session_a4zamsv88_1779947332607] RAG Agent 收到查询（非流式）: 通过对证券业精细化洗钱风险管控体系建设的研究，不仅可以推动证券行业在非经纪业务领域建立更为科学和系统的洗钱风险管控机制，使得证券业的洗钱风险管理更为全面，有助于提升整个金融体系的安全性和稳定性。本次研究的意义具体体现在以下几个方面：
+2026-05-28 13:49:35 | INFO     | rag_agent_service.query:290 | [会话 session_a4zamsv88_1779947332607] RAG Agent 查询完成（非流式）
+2026-05-28 13:49:35 | INFO     | chat.chat:146 | [会话 session_a4zamsv88_1779947332607] 快速对话完成
+2026-05-28 14:06:03 | INFO     | rag_agent_service.__init__:127 | RAG Agent 服务初始化完成 (ChatQwen), model=qwen-max, vision_model=qwen3.6-plus, streaming=True
+2026-05-28 14:06:03 | INFO     | vector_index_service.__init__:72 | RAG-Anything 索引服务初始化完成
+2026-05-28 14:06:03 | INFO     | aiops_service._build_graph:31 | 构建工作流图...
+2026-05-28 14:06:03 | INFO     | aiops_service._build_graph:78 | 工作流图构建完成
+2026-05-28 14:06:03 | INFO     | aiops_service.__init__:27 | Plan-Execute-Replan Service 初始化完成
+2026-05-28 14:06:03 | INFO     | main.lifespan:23 | ============================================================
+2026-05-28 14:06:03 | INFO     | main.lifespan:24 | 🚀 SuperBizAgent v1.0.0 启动中...
+2026-05-28 14:06:03 | INFO     | main.lifespan:25 | 📝 环境: 开发
+2026-05-28 14:06:03 | INFO     | main.lifespan:26 | 🌐 监听地址: http://0.0.0.0:9900
+2026-05-28 14:06:03 | INFO     | main.lifespan:27 | 📚 API 文档: http://0.0.0.0:9900/docs
+2026-05-28 14:06:03 | INFO     | main.lifespan:29 | 📚 启动阶段不更新 RAG 知识库；仅 make upload 会触发知识库写入
+2026-05-28 14:06:03 | INFO     | main.lifespan:31 | ============================================================
+2026-05-28 14:07:05 | INFO     | file.index_file:159 | 开始索引本地文件: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/cpu_high_usage.md
+2026-05-28 14:07:05 | INFO     | vector_index_service.aindex_single_file:167 | 开始索引文件: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/cpu_high_usage.md
+2026-05-28 14:07:08 | INFO     | rag_anything_service.ensure_ready:92 | RAG-Anything 初始化完成: working_dir=rag_anything_storage, query_mode=hybrid
+2026-05-28 14:08:22 | INFO     | rag_anything_service.index_file:185 | RAG-Anything 文档索引完成: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/cpu_high_usage.md, doc_id=doc-449bb9bd70654a9b0cbb68f4dea435cc
+2026-05-28 14:08:22 | INFO     | vector_index_service.aindex_single_file:171 | 文件索引完成: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/cpu_high_usage.md, RAG-Anything doc_id=doc-449bb9bd70654a9b0cbb68f4dea435cc
+2026-05-28 14:08:22 | INFO     | file.index_file:159 | 开始索引本地文件: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/disk_high_usage.md
+2026-05-28 14:08:22 | INFO     | vector_index_service.aindex_single_file:167 | 开始索引文件: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/disk_high_usage.md
+2026-05-28 14:10:57 | INFO     | rag_anything_service.index_file:185 | RAG-Anything 文档索引完成: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/disk_high_usage.md, doc_id=doc-fc482af95d5a9b089a34bd676eba9f2d
+2026-05-28 14:10:57 | INFO     | vector_index_service.aindex_single_file:171 | 文件索引完成: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/disk_high_usage.md, RAG-Anything doc_id=doc-fc482af95d5a9b089a34bd676eba9f2d
+2026-05-28 14:10:57 | INFO     | file.index_file:159 | 开始索引本地文件: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/memory_high_usage.md
+2026-05-28 14:10:57 | INFO     | vector_index_service.aindex_single_file:167 | 开始索引文件: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/memory_high_usage.md
+2026-05-28 14:12:46 | INFO     | rag_anything_service.index_file:185 | RAG-Anything 文档索引完成: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/memory_high_usage.md, doc_id=doc-38a761b40fcd0ac72cd0c0b516bd3738
+2026-05-28 14:12:46 | INFO     | vector_index_service.aindex_single_file:171 | 文件索引完成: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/memory_high_usage.md, RAG-Anything doc_id=doc-38a761b40fcd0ac72cd0c0b516bd3738
+2026-05-28 14:12:46 | INFO     | file.index_file:159 | 开始索引本地文件: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/service_unavailable.md
+2026-05-28 14:12:46 | INFO     | vector_index_service.aindex_single_file:167 | 开始索引文件: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/service_unavailable.md
+2026-05-28 14:18:07 | INFO     | rag_anything_service.index_file:185 | RAG-Anything 文档索引完成: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/service_unavailable.md, doc_id=doc-c0193764eea3af987ff640b97b22cbcb
+2026-05-28 14:18:07 | INFO     | vector_index_service.aindex_single_file:171 | 文件索引完成: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/service_unavailable.md, RAG-Anything doc_id=doc-c0193764eea3af987ff640b97b22cbcb
+2026-05-28 14:18:07 | INFO     | file.index_file:159 | 开始索引本地文件: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/slow_response.md
+2026-05-28 14:18:07 | INFO     | vector_index_service.aindex_single_file:167 | 开始索引文件: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/slow_response.md
+2026-05-28 14:19:40 | INFO     | rag_anything_service.index_file:185 | RAG-Anything 文档索引完成: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/slow_response.md, doc_id=doc-e1f0ffacb5e92819c49ae535383fbbbf
+2026-05-28 14:19:40 | INFO     | vector_index_service.aindex_single_file:171 | 文件索引完成: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/slow_response.md, RAG-Anything doc_id=doc-e1f0ffacb5e92819c49ae535383fbbbf
+2026-05-28 14:19:40 | INFO     | file.index_file:159 | 开始索引本地文件: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/my_knowledge_document/1.5证券业精细化洗钱风险管控体系建设研究报告.docx
+2026-05-28 14:19:40 | INFO     | vector_index_service.aindex_single_file:167 | 开始索引文件: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/my_knowledge_document/1.5证券业精细化洗钱风险管控体系建设研究报告.docx
+2026-05-28 14:19:40 | INFO     | rag_anything_service.index_file:122 | 使用 Office 文本解析，避免 MinerU/PDF 解析占用过高内存: 1.5证券业精细化洗钱风险管控体系建设研究报告.docx
+2026-05-28 14:26:34 | INFO     | rag_agent_service.__init__:127 | RAG Agent 服务初始化完成 (ChatQwen), model=qwen-max, vision_model=qwen3.6-plus, streaming=True
+2026-05-28 14:26:34 | INFO     | vector_index_service.__init__:72 | RAG-Anything 索引服务初始化完成
+2026-05-28 14:26:34 | INFO     | aiops_service._build_graph:31 | 构建工作流图...
+2026-05-28 14:26:34 | INFO     | aiops_service._build_graph:78 | 工作流图构建完成
+2026-05-28 14:26:34 | INFO     | aiops_service.__init__:27 | Plan-Execute-Replan Service 初始化完成
+2026-05-28 14:26:34 | INFO     | main.lifespan:23 | ============================================================
+2026-05-28 14:26:34 | INFO     | main.lifespan:24 | 🚀 SuperBizAgent v1.0.0 启动中...
+2026-05-28 14:26:34 | INFO     | main.lifespan:25 | 📝 环境: 开发
+2026-05-28 14:26:34 | INFO     | main.lifespan:26 | 🌐 监听地址: http://0.0.0.0:9900
+2026-05-28 14:26:34 | INFO     | main.lifespan:27 | 📚 API 文档: http://0.0.0.0:9900/docs
+2026-05-28 14:26:34 | INFO     | main.lifespan:29 | 📚 启动阶段不更新 RAG 知识库；仅 make upload 会触发知识库写入
+2026-05-28 14:26:34 | INFO     | main.lifespan:31 | ============================================================
+2026-05-28 14:31:43 | INFO     | file.index_file:159 | 开始索引本地文件: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/cpu_high_usage.md
+2026-05-28 14:31:43 | INFO     | vector_index_service.aindex_single_file:167 | 开始索引文件: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/cpu_high_usage.md
+2026-05-28 14:31:46 | INFO     | rag_anything_service.ensure_ready:92 | RAG-Anything 初始化完成: working_dir=rag_anything_storage, query_mode=hybrid
+2026-05-28 14:31:55 | INFO     | rag_anything_service.index_file:185 | RAG-Anything 文档索引完成: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/cpu_high_usage.md, doc_id=doc-449bb9bd70654a9b0cbb68f4dea435cc
+2026-05-28 14:31:55 | INFO     | vector_index_service.aindex_single_file:171 | 文件索引完成: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/cpu_high_usage.md, RAG-Anything doc_id=doc-449bb9bd70654a9b0cbb68f4dea435cc
+2026-05-28 14:31:55 | INFO     | file.index_file:159 | 开始索引本地文件: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/disk_high_usage.md
+2026-05-28 14:31:55 | INFO     | vector_index_service.aindex_single_file:167 | 开始索引文件: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/disk_high_usage.md
+2026-05-28 14:32:12 | INFO     | rag_anything_service.index_file:185 | RAG-Anything 文档索引完成: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/disk_high_usage.md, doc_id=doc-fc482af95d5a9b089a34bd676eba9f2d
+2026-05-28 14:32:12 | INFO     | vector_index_service.aindex_single_file:171 | 文件索引完成: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/disk_high_usage.md, RAG-Anything doc_id=doc-fc482af95d5a9b089a34bd676eba9f2d
+2026-05-28 14:32:12 | INFO     | file.index_file:159 | 开始索引本地文件: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/memory_high_usage.md
+2026-05-28 14:32:12 | INFO     | vector_index_service.aindex_single_file:167 | 开始索引文件: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/memory_high_usage.md
+2026-05-28 14:32:30 | INFO     | rag_anything_service.index_file:185 | RAG-Anything 文档索引完成: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/memory_high_usage.md, doc_id=doc-38a761b40fcd0ac72cd0c0b516bd3738
+2026-05-28 14:32:30 | INFO     | vector_index_service.aindex_single_file:171 | 文件索引完成: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/memory_high_usage.md, RAG-Anything doc_id=doc-38a761b40fcd0ac72cd0c0b516bd3738
+2026-05-28 14:32:30 | INFO     | file.index_file:159 | 开始索引本地文件: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/service_unavailable.md
+2026-05-28 14:32:30 | INFO     | vector_index_service.aindex_single_file:167 | 开始索引文件: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/service_unavailable.md
+2026-05-28 14:32:51 | INFO     | rag_anything_service.index_file:185 | RAG-Anything 文档索引完成: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/service_unavailable.md, doc_id=doc-c0193764eea3af987ff640b97b22cbcb
+2026-05-28 14:32:51 | INFO     | vector_index_service.aindex_single_file:171 | 文件索引完成: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/service_unavailable.md, RAG-Anything doc_id=doc-c0193764eea3af987ff640b97b22cbcb
+2026-05-28 14:32:51 | INFO     | file.index_file:159 | 开始索引本地文件: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/slow_response.md
+2026-05-28 14:32:51 | INFO     | vector_index_service.aindex_single_file:167 | 开始索引文件: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/slow_response.md
+2026-05-28 14:33:01 | INFO     | rag_anything_service.index_file:185 | RAG-Anything 文档索引完成: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/slow_response.md, doc_id=doc-e1f0ffacb5e92819c49ae535383fbbbf
+2026-05-28 14:33:01 | INFO     | vector_index_service.aindex_single_file:171 | 文件索引完成: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/aiops-docs/slow_response.md, RAG-Anything doc_id=doc-e1f0ffacb5e92819c49ae535383fbbbf
+2026-05-28 14:33:01 | INFO     | file.index_file:159 | 开始索引本地文件: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/my_knowledge_document/1.5证券业精细化洗钱风险管控体系建设研究报告.docx
+2026-05-28 14:33:01 | INFO     | vector_index_service.aindex_single_file:167 | 开始索引文件: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/my_knowledge_document/1.5证券业精细化洗钱风险管控体系建设研究报告.docx
+2026-05-28 14:33:01 | INFO     | rag_anything_service.index_file:122 | 使用 Office 文本解析，避免 MinerU/PDF 解析占用过高内存: 1.5证券业精细化洗钱风险管控体系建设研究报告.docx
+2026-05-28 16:08:50 | INFO     | rag_anything_service.index_file:185 | RAG-Anything 文档索引完成: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/my_knowledge_document/1.5证券业精细化洗钱风险管控体系建设研究报告.docx, doc_id=doc-12f2c2bdbec1de90bc2aa9059cb465ad
+2026-05-28 16:08:50 | INFO     | vector_index_service.aindex_single_file:171 | 文件索引完成: /Volumes/数据盘/super_biz_agent_py-release-2026-03-16/my_knowledge_document/1.5证券业精细化洗钱风险管控体系建设研究报告.docx, RAG-Anything doc_id=doc-12f2c2bdbec1de90bc2aa9059cb465ad
+2026-05-28 16:17:21 | INFO     | chat.chat_stream:211 | [会话 session_067w0dgxq_1779956235140] 收到流式对话请求: 通过对证券业精细化洗钱风险管控体系建设的研究，不仅可以推动证券行业在非经纪业务领域建立更为科学和系统的洗钱风险管控机制，使得证券业的洗钱风险管理更为全面，有助于提升整个金融体系的安全性和稳定性。本次研究的意义具体体现在以下几个方面：, 附件数: 0
+2026-05-28 16:17:21 | INFO     | mcp_client.get_mcp_client:119 | 初始化全局 MCP 客户端...
+2026-05-28 16:17:21 | INFO     | mcp_client.get_mcp_client:125 | 全局 MCP 客户端初始化完成
+2026-05-28 16:17:21 | INFO     | rag_agent_service._initialize_agent:178 | 成功加载 7 个 MCP 工具
+2026-05-28 16:17:21 | INFO     | rag_agent_service._initialize_agent:202 | 可用工具列表: retrieve_knowledge, get_current_time, get_current_timestamp, get_region_code_by_name, get_topic_info_by_name, search_topic_by_service_name, search_log, query_cpu_metrics, query_memory_metrics
+2026-05-28 16:17:21 | INFO     | rag_agent_service.query_stream:455 | [会话 session_067w0dgxq_1779956235140] RAG Agent 收到查询（流式）: 通过对证券业精细化洗钱风险管控体系建设的研究，不仅可以推动证券行业在非经纪业务领域建立更为科学和系统的洗钱风险管控机制，使得证券业的洗钱风险管理更为全面，有助于提升整个金融体系的安全性和稳定性。本次研究的意义具体体现在以下几个方面：
+2026-05-28 16:17:39 | INFO     | rag_agent_service.query_stream:497 | [会话 session_067w0dgxq_1779956235140] RAG Agent 查询完成（流式）
+2026-05-28 16:17:39 | INFO     | chat.event_generator:298 | [会话 session_067w0dgxq_1779956235140] 流式对话完成
+2026-05-28 16:19:27 | INFO     | chat.chat:123 | [会话 session_7okhmmdq1_1779956304297] 收到快速对话请求: 证券业精细化洗钱风险管控体系建设的研究意义是什么？, 附件数: 0
+2026-05-28 16:19:27 | INFO     | rag_agent_service.query:254 | [会话 session_7okhmmdq1_1779956304297] RAG Agent 收到查询（非流式）: 证券业精细化洗钱风险管控体系建设的研究意义是什么？
+2026-05-28 16:19:29 | INFO     | knowledge_tool.retrieve_knowledge:25 | 知识检索工具被调用: query='证券业精细化洗钱风险管控体系建设的研究意义'
+2026-05-28 16:20:20 | INFO     | knowledge_tool.retrieve_knowledge:42 | RAG-Anything 检索完成
+2026-05-28 16:20:41 | INFO     | rag_agent_service.query:290 | [会话 session_7okhmmdq1_1779956304297] RAG Agent 查询完成（非流式）
+2026-05-28 16:20:41 | INFO     | chat.chat:146 | [会话 session_7okhmmdq1_1779956304297] 快速对话完成
+2026-05-28 16:23:32 | INFO     | chat.chat:123 | [会话 session_kcdftao05_1779956584646] 收到快速对话请求: 证券公司一般有什么类型的业务？尽量全面地回答我~, 附件数: 0
+2026-05-28 16:23:32 | INFO     | rag_agent_service.query:254 | [会话 session_kcdftao05_1779956584646] RAG Agent 收到查询（非流式）: 证券公司一般有什么类型的业务？尽量全面地回答我~
+2026-05-28 16:23:34 | INFO     | knowledge_tool.retrieve_knowledge:25 | 知识检索工具被调用: query='证券公司 业务类型'
+2026-05-28 16:24:33 | INFO     | chat.chat:123 | [会话 session_kcdftao05_1779956584646] 收到快速对话请求: 证券公司一般有什么类型的业务？尽量全面地回答我~, 附件数: 0
+2026-05-28 16:24:33 | INFO     | rag_agent_service.query:254 | [会话 session_kcdftao05_1779956584646] RAG Agent 收到查询（非流式）: 证券公司一般有什么类型的业务？尽量全面地回答我~
+2026-05-28 16:24:33 | ERROR    | rag_agent_service.query:297 | [会话 session_kcdftao05_1779956584646] RAG Agent 查询失败（非流式）: <400> InternalError.Algo.InvalidParameter: An assistant message with "tool_calls" must be followed by tool messages responding to each "tool_call_id". The following tool_call_ids did not have response messages: message[3].role
+2026-05-28 16:24:33 | ERROR    | chat.chat:159 | 对话接口错误: <400> InternalError.Algo.InvalidParameter: An assistant message with "tool_calls" must be followed by tool messages responding to each "tool_call_id". The following tool_call_ids did not have response messages: message[3].role
+2026-05-28 16:24:40 | INFO     | knowledge_tool.retrieve_knowledge:42 | RAG-Anything 检索完成
+2026-05-28 16:24:56 | INFO     | rag_agent_service.query:290 | [会话 session_kcdftao05_1779956584646] RAG Agent 查询完成（非流式）
+2026-05-28 16:24:56 | INFO     | chat.chat:146 | [会话 session_kcdftao05_1779956584646] 快速对话完成
+2026-05-28 16:26:09 | INFO     | chat.chat:123 | [会话 session_3p1jan5rv_1779956766351] 收到快速对话请求: 证券公司一般有什么类型的业务？尽量全面地回答我~, 附件数: 0
+2026-05-28 16:26:09 | INFO     | rag_agent_service.query:254 | [会话 session_3p1jan5rv_1779956766351] RAG Agent 收到查询（非流式）: 证券公司一般有什么类型的业务？尽量全面地回答我~
+2026-05-28 16:26:11 | INFO     | knowledge_tool.retrieve_knowledge:25 | 知识检索工具被调用: query='证券公司业务类型'
+2026-05-28 16:26:54 | INFO     | knowledge_tool.retrieve_knowledge:42 | RAG-Anything 检索完成
+2026-05-28 16:27:11 | INFO     | chat.chat:123 | [会话 session_3p1jan5rv_1779956766351] 收到快速对话请求: 证券公司一般有什么类型的业务？尽量全面地回答我~, 附件数: 0
+2026-05-28 16:27:11 | INFO     | rag_agent_service.query:254 | [会话 session_3p1jan5rv_1779956766351] RAG Agent 收到查询（非流式）: 证券公司一般有什么类型的业务？尽量全面地回答我~
+2026-05-28 16:27:21 | INFO     | rag_agent_service.query:290 | [会话 session_3p1jan5rv_1779956766351] RAG Agent 查询完成（非流式）
+2026-05-28 16:27:21 | INFO     | chat.chat:146 | [会话 session_3p1jan5rv_1779956766351] 快速对话完成
+2026-05-28 16:27:41 | INFO     | rag_agent_service.query:290 | [会话 session_3p1jan5rv_1779956766351] RAG Agent 查询完成（非流式）
+2026-05-28 16:27:41 | INFO     | chat.chat:146 | [会话 session_3p1jan5rv_1779956766351] 快速对话完成
+2026-05-28 16:32:14 | INFO     | chat.chat:123 | [会话 session_3p1jan5rv_1779956766351] 收到快速对话请求: 这部分你是参考文件证券精细化洗钱风险管理里面的内容吗, 附件数: 0
+2026-05-28 16:32:14 | INFO     | rag_agent_service.query:254 | [会话 session_3p1jan5rv_1779956766351] RAG Agent 收到查询（非流式）: 这部分你是参考文件证券精细化洗钱风险管理里面的内容吗
+2026-05-28 16:32:20 | INFO     | rag_agent_service.query:290 | [会话 session_3p1jan5rv_1779956766351] RAG Agent 查询完成（非流式）
+2026-05-28 16:32:20 | INFO     | chat.chat:146 | [会话 session_3p1jan5rv_1779956766351] 快速对话完成
+2026-05-28 16:33:19 | INFO     | chat.chat:123 | [会话 session_3p1jan5rv_1779956766351] 收到快速对话请求: 其中场外衍生品业务有提及吗？我其实想知道，场外衍生品业务定义的资金流向和客户是怎么样的, 附件数: 0
+2026-05-28 16:33:19 | INFO     | rag_agent_service.query:254 | [会话 session_3p1jan5rv_1779956766351] RAG Agent 收到查询（非流式）: 其中场外衍生品业务有提及吗？我其实想知道，场外衍生品业务定义的资金流向和客户是怎么样的
+2026-05-28 16:33:22 | INFO     | knowledge_tool.retrieve_knowledge:25 | 知识检索工具被调用: query='场外衍生品业务定义 资金流向 客户'
+2026-05-28 16:34:20 | INFO     | chat.chat:123 | [会话 session_3p1jan5rv_1779956766351] 收到快速对话请求: 其中场外衍生品业务有提及吗？我其实想知道，场外衍生品业务定义的资金流向和客户是怎么样的, 附件数: 0
+2026-05-28 16:34:20 | INFO     | rag_agent_service.query:254 | [会话 session_3p1jan5rv_1779956766351] RAG Agent 收到查询（非流式）: 其中场外衍生品业务有提及吗？我其实想知道，场外衍生品业务定义的资金流向和客户是怎么样的
+2026-05-28 16:34:21 | ERROR    | rag_agent_service.query:297 | [会话 session_3p1jan5rv_1779956766351] RAG Agent 查询失败（非流式）: <400> InternalError.Algo.InvalidParameter: An assistant message with "tool_calls" must be followed by tool messages responding to each "tool_call_id". The following tool_call_ids did not have response messages: message[13].role
+2026-05-28 16:34:21 | ERROR    | chat.chat:159 | 对话接口错误: <400> InternalError.Algo.InvalidParameter: An assistant message with "tool_calls" must be followed by tool messages responding to each "tool_call_id". The following tool_call_ids did not have response messages: message[13].role
+2026-05-28 16:34:59 | INFO     | knowledge_tool.retrieve_knowledge:42 | RAG-Anything 检索完成
+2026-05-28 16:35:32 | INFO     | chat.chat:123 | [会话 session_3p1jan5rv_1779956766351] 收到快速对话请求: 其中场外衍生品业务有提及吗？我其实想知道，场外衍生品业务定义的资金流向和客户是怎么样的, 附件数: 0
+2026-05-28 16:35:32 | INFO     | rag_agent_service.query:254 | [会话 session_3p1jan5rv_1779956766351] RAG Agent 收到查询（非流式）: 其中场外衍生品业务有提及吗？我其实想知道，场外衍生品业务定义的资金流向和客户是怎么样的
+2026-05-28 16:36:21 | INFO     | rag_agent_service.query:290 | [会话 session_3p1jan5rv_1779956766351] RAG Agent 查询完成（非流式）
+2026-05-28 16:36:21 | INFO     | chat.chat:146 | [会话 session_3p1jan5rv_1779956766351] 快速对话完成
+2026-05-28 16:36:26 | INFO     | rag_agent_service.query:290 | [会话 session_3p1jan5rv_1779956766351] RAG Agent 查询完成（非流式）
+2026-05-28 16:36:26 | INFO     | chat.chat:146 | [会话 session_3p1jan5rv_1779956766351] 快速对话完成
+2026-05-28 16:38:37 | INFO     | chat.chat:123 | [会话 session_3p1jan5rv_1779956766351] 收到快速对话请求: 这部分的内容是有关于洗钱风险的定义吗？看起来比较业务，我并没看明白风险点在哪里, 附件数: 0
+2026-05-28 16:38:37 | INFO     | rag_agent_service.query:254 | [会话 session_3p1jan5rv_1779956766351] RAG Agent 收到查询（非流式）: 这部分的内容是有关于洗钱风险的定义吗？看起来比较业务，我并没看明白风险点在哪里
+2026-05-28 16:39:13 | INFO     | rag_agent_service.query:290 | [会话 session_3p1jan5rv_1779956766351] RAG Agent 查询完成（非流式）
+2026-05-28 16:39:13 | INFO     | chat.chat:146 | [会话 session_3p1jan5rv_1779956766351] 快速对话完成
+2026-05-28 16:39:59 | INFO     | chat.chat:123 | [会话 session_3p1jan5rv_1779956766351] 收到快速对话请求: 可是场外衍生品怎么定义谁是客户呢？谁才是这个业务中的“客户”, 附件数: 0
+2026-05-28 16:39:59 | INFO     | rag_agent_service.query:254 | [会话 session_3p1jan5rv_1779956766351] RAG Agent 收到查询（非流式）: 可是场外衍生品怎么定义谁是客户呢？谁才是这个业务中的“客户”
+2026-05-28 16:40:27 | INFO     | rag_agent_service.query:290 | [会话 session_3p1jan5rv_1779956766351] RAG Agent 查询完成（非流式）
+2026-05-28 16:40:27 | INFO     | chat.chat:146 | [会话 session_3p1jan5rv_1779956766351] 快速对话完成
+2026-05-28 16:46:29 | INFO     | chat.chat:123 | [会话 session_3p1jan5rv_1779956766351] 收到快速对话请求: 所以场外衍生品业务要对交易对手方做尽调吗？一般的反洗钱尽调要求中，交易对手方是不需要做尽调的, 附件数: 0
+2026-05-28 16:46:29 | INFO     | rag_agent_service.query:254 | [会话 session_3p1jan5rv_1779956766351] RAG Agent 收到查询（非流式）: 所以场外衍生品业务要对交易对手方做尽调吗？一般的反洗钱尽调要求中，交易对手方是不需要做尽调的
+2026-05-28 16:47:00 | INFO     | rag_agent_service.query:290 | [会话 session_3p1jan5rv_1779956766351] RAG Agent 查询完成（非流式）
+2026-05-28 16:47:00 | INFO     | chat.chat:146 | [会话 session_3p1jan5rv_1779956766351] 快速对话完成
+2026-05-28 16:47:30 | INFO     | chat.chat:123 | [会话 session_7z6a2vbjg_1779958046249] 收到快速对话请求: 你好, 附件数: 0
+2026-05-28 16:47:30 | INFO     | rag_agent_service.query:254 | [会话 session_7z6a2vbjg_1779958046249] RAG Agent 收到查询（非流式）: 你好
+2026-05-28 16:47:32 | INFO     | rag_agent_service.query:290 | [会话 session_7z6a2vbjg_1779958046249] RAG Agent 查询完成（非流式）
+2026-05-28 16:47:32 | INFO     | chat.chat:146 | [会话 session_7z6a2vbjg_1779958046249] 快速对话完成

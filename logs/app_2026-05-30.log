@@ -1,0 +1,10 @@
+2026-05-30 07:03:59 | INFO     | chat.chat_stream:211 | [会话 session_qnnjqrn1x_1780095797121] 收到流式对话请求: 证券业精细化洗钱风险管控体系建设研究报告的研究意义是什么？, 附件数: 0
+2026-05-30 07:03:59 | INFO     | mcp_client.get_mcp_client:119 | 初始化全局 MCP 客户端...
+2026-05-30 07:03:59 | INFO     | mcp_client.get_mcp_client:125 | 全局 MCP 客户端初始化完成
+2026-05-30 07:03:59 | INFO     | rag_agent_service._initialize_agent:178 | 成功加载 7 个 MCP 工具
+2026-05-30 07:03:59 | INFO     | rag_agent_service._initialize_agent:202 | 可用工具列表: retrieve_knowledge, get_current_time, get_current_timestamp, get_region_code_by_name, get_topic_info_by_name, search_topic_by_service_name, search_log, query_cpu_metrics, query_memory_metrics
+2026-05-30 07:03:59 | INFO     | rag_agent_service.query_stream:455 | [会话 session_qnnjqrn1x_1780095797121] RAG Agent 收到查询（流式）: 证券业精细化洗钱风险管控体系建设研究报告的研究意义是什么？
+2026-05-30 07:04:02 | INFO     | knowledge_tool.retrieve_knowledge:25 | 知识检索工具被调用: query='证券业精细化洗钱风险管控体系建设研究报告的研究意义'
+2026-05-30 07:04:13 | INFO     | knowledge_tool.retrieve_knowledge:42 | RAG-Anything 检索完成
+2026-05-30 07:04:18 | INFO     | rag_agent_service.query_stream:497 | [会话 session_qnnjqrn1x_1780095797121] RAG Agent 查询完成（流式）
+2026-05-30 07:04:18 | INFO     | chat.event_generator:298 | [会话 session_qnnjqrn1x_1780095797121] 流式对话完成
